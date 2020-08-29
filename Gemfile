@@ -8,9 +8,6 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-# Required to make livereload work on windows
-require 'em/pure_ruby'
-
 gem "github-pages", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
@@ -29,3 +26,7 @@ end
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
+# Note: after running 'bundle update', eventmachine needs to be reinstalled
+# for --livereload to work:
+# $ gem uninstall eventmachine
+# $ gem install eventmachine --platform ruby
