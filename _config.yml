@@ -16,8 +16,8 @@
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "Blog of the watcher"
-description: "Coming soon"
+title: "Δě Watcher"
+description: "<p>Het enige wat ik doe is met al mijn zintuigen informatie verzamelen uit alle mogelijke bronnen.</p> <p>Dan volgt rangschikken, groeperen en van commentaar voorzien. Dat is het. Ik put daaruit voldoening.</p>"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
@@ -90,9 +90,9 @@ defaults:
 
 # Site Author
 author:
-  name:
-  picture:
-  email:
+  name: Wim Watcher Willy
+  picture: /images/profile.jpg
+  email: wimwatcherwilly@gmail.com
   twitter:
   links:
     - title:
@@ -100,7 +100,4 @@ author:
       icon:
 
 # Footer Links
-footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+footer_links: false
