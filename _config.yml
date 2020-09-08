@@ -64,16 +64,15 @@ author:
   avatar : "/images/profile.jpg"
   bio    : >-
     Het enige wat ik doe is met al mijn zintuigen informatie verzamelen uit
-    alle mogelijke bronnen. Dan volgt rangschikken, groeperen en van
-    commentaar voorzien. Dat is het. Ik put daaruit voldoening.
+    alle mogelijke bronnen.<br>
+    Dan volgt rangschikken, groeperen en van
+    commentaar voorzien.<br>
+    Dat is het. Ik put daaruit voldoening.
   location: "Geel, Belgium"
   links:
     - label: "E-mail"
       icon: "far fa-envelope"
       url: "mailto:wimwatcherwilly@gmail.com"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/wimols"
 
 footer: false
 
