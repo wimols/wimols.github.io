@@ -13,52 +13,30 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
-skin: "/assets/css/skins/default.css"
-locale: en-US
 title: "Δě Watcher"
-description: "<p>Het enige wat ik doe is met al mijn zintuigen informatie verzamelen uit alle mogelijke bronnen.</p> <p>Dan volgt rangschikken, groeperen en van commentaar voorzien. Dat is het. Ik put daaruit voldoening.</p>"
-baseurl: # the subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
-date_format: "%B %-d, %Y"
-read_time: # reading time estimates, e.g. true
-words_per_minute: # 200
-mathjax:
-  enable: # MathJax equations, e.g. true, false (default)
-  combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
-  tags:  # "none", "ams" (default), "all"
-google_fonts:
-  - name: "Source Sans Pro"
-    weights: "400,400i,700,700i"
-  - name: "Lora"
-    weights: "400,400i,700,700i"
-google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-disqus:
-  shortname: # Disqus shortname, e.g. "my_disqus_shortname"
-twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+email: "wimwatcherwilly@gmail.com"
+description: >-
+  Het enige wat ik doe is met al mijn zintuigen informatie verzamelen uit
+  alle mogelijke bronnen. Dan volgt rangschikken, groeperen en van
+  commentaar voorzien. Dat is het. Ik put daaruit voldoening.
 
-# Liquid
-liquid:
-  error_mode: strict
+twitter_username: username
+github_username: username
+minimal_mistakes_skin: default
+search: true
 
 # Build settings
-permalink: /:categories/:title/
 markdown: kramdown
-feed:
-  path: atom.xml
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-# Pagination - https://jekyllrb.com/docs/pagination/
-# paginate: 10
-# paginate_path: /page:num/
-
-# Search
-search_full_content: false # can have performance implications for large sites
-
-# Taxonomy pages
-# category_archive_path: "/categories/#"
-# tag_archive_path: "/tags/#"
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -72,32 +50,56 @@ search_full_content: false # can have performance implications for large sites
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# Plugins (previously gems:)
 plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
-# Front Matter Defaults
+author:
+  name   : "Wim Watcher Willy"
+  avatar : "/images/profile.jpg"
+  bio    : >-
+    Het enige wat ik doe is met al mijn zintuigen informatie verzamelen uit
+    alle mogelijke bronnen. Dan volgt rangschikken, groeperen en van
+    commentaar voorzien. Dat is het. Ik put daaruit voldoening.
+  location: "Geel, Belgium"
+  links:
+    - label: "E-mail"
+      icon: "far fa-envelope"
+      url: "mailto:wimwatcherwilly@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/wimols"
+
+footer: false
+
 defaults:
-  # Posts defaults
+  # _posts
   - scope:
-      path: "_posts"
+      path: ""
       type: posts
     values:
-      layout: post
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
       share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
-# Site Author
-author:
-  name: Wim Watcher Willy
-  picture: /images/profile.jpg
-  email: wimwatcherwilly@gmail.com
-  twitter:
-  links:
-    - title:
-      url:
-      icon:
-
-# Footer Links
-footer_links: false
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/

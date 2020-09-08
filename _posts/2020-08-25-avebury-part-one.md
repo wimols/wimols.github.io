@@ -1,8 +1,7 @@
 ---
 title: Avebury Deel 1 - Hoe is het zover kunnen komen?
-image:
-  path: "/images/avebury1.jpg"
-  thumbnail: "/images/avebury1.jpg"
+header:
+  image: "/images/avebury1.jpg"
 ---
 
 Hierbij wil ik mijn reisverslag van mijn verschillende tripjes naar Avebury wat toelichten. Deze blogposts zullen uit meerder delen bestaan. Hopelijk vinden jullie het tof.
@@ -36,6 +35,6 @@ We lopen even de tijdslijn af in afgeronde periodes:
 ![](/images/Avebury cirkel bewerkt.jpg)
 **Tot slot.**
 -Niemand zou ooit Avebury bezoeken als daar die stenen niet stonden. Mensen worden gelokt door de onduidelijkheid en de geheimzinnige achtergrond. Anderen komen voor hun persoonlijk gewin want volgens de wichelroedelopers komen er veel energielijnen samen en is de plek een oplaadpunt voor het brein. Wie zoekt vindt wel een reden om te komen.                                                                                     
--Voor de rest is Avebury piepklein, een paar tientallen huizen, een paar honderdtallen mensen. Er is een kerk, een kerkhof, een abdij waar nu het museum is in onder gebracht. Er is een winkel met souvenirs. Er is een herberg, The Red Lion, in het midden van de cirkel. Het zou er spoken. Hier slapen is een exclusiviteit met ooit een wachtlijst van 2 jaar. 
+-Voor de rest is Avebury piepklein, een paar tientallen huizen, een paar honderdtallen mensen. Er is een kerk, een kerkhof, een abdij waar nu het museum is in onder gebracht. Er is een winkel met souvenirs. Er is een herberg, The Red Lion, in het midden van de cirkel. Het zou er spoken. Hier slapen is een exclusiviteit met ooit een wachtlijst van 2 jaar.
 -Op sommige zomerdagen/zomernachten is de schaamte van groepjes mensen ver zoek. En dan zijn er nog de auto’s/vrachtwagens die door de cirkel trekken, ze ontheiligen de plek.
 -Vast staat dat de mens ongeveer 500 jaren na Avebury begonnen is aan de bouw van de Sarsencirkel van Stonehenge. Voor beide monumenten bestond er toen de spirit voor. Maar wij weten helaas nog altijd niet goed wat die spirit uiteindelijk betekende. De mensen waren toen niet sterker dan nu, maar ze voelden zich wel verenigd onder een deskundige leiding in het project. Alleen al hiervoor ben ik volgens mij veel te laat geboren. Gelukkig heeft ook mijn levenstijd zijn voordelen.
