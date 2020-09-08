@@ -1,7 +1,6 @@
 ---
 title: Website under construction
-layout: post
-categories: jekyll update
+tags: 
 ---
 
 Hi all! I'm hard at work to get my website up and running, but it's still a work in progress.

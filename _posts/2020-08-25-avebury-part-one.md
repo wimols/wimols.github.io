@@ -4,6 +4,9 @@ header:
   image: "/images/avebury1.jpg"
   caption: "Photo by Frans Van Heerden on [**Pexels**](https://www.pexels.com/photo/stone-near-tree-1590511/)"
 published: false
+tags:
+  - Avebury
+  - Reisverslag
 ---
 
 Hierbij wil ik mijn reisverslag van mijn verschillende tripjes naar Avebury wat toelichten. Deze blogposts zullen uit meerder delen bestaan. Hopelijk vinden jullie het tof.

@@ -4,6 +4,9 @@ header:
   image: "/images/avebury2.jpg"
   caption: "Photo by Zoltan Tasi on [**Unsplash**](https://unsplash.com/photos/QxjEi8Fs9Hg)"
 published: false
+tags:
+  - Avebury
+  - Reisverslag
 ---
 
 In dit deel gaan we wat dieper in op alle details van de Avebury site.
