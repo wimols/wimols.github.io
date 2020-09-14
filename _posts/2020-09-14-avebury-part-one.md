@@ -11,7 +11,7 @@ tags:
 
 I would like to explain my travelogue of my various trips to Avebury. These blog posts will consist of more parts. I hope you like it.
 
-**An overview.**
+# An overview.
 
 Today we see a battered monument in which man lives. We are lucky to be able to touch the stones, something that is virtually forbidden in Stonehenge. The National Trust manages the stones:
 - In Avebury, the megaliths are unprocessed. They are only chopped loose from the mountains, put on transport and set up. Maybe that's why we're still allowed to touch them. The same situation occurs with all the stone henges that are frequently distributed in England and Scotland. These smaller henges are usually unobtrusive in the field. They are only accessible on foot and there is virtually no local accommodation. So basically there is virtually no control and one is counting on the common sense of the visitors.
@@ -33,7 +33,7 @@ Some 30 of these are currently preserved.
 
 ![](/images/Avebury vintage.jpg)
 
-**How did it come to this?**
+# How did it come to this?
 
 We'll just finish the timeline in rounded periods:
 - It is estimated that the monument has been built for about 500 years.
@@ -48,7 +48,7 @@ We'll just finish the timeline in rounded periods:
     
 - Then come the last 500 years. People are starting to realize that something is going on. People take measurements, scholars look at the problem, the realization grows that something has to be done. The king gives subsidies. One begins to restore, amateurish. Stones end up in the wrong place or in the right place but are erected incorrectly. Everyone suddenly knows where to recover another stone. Today, not a single stone is erected, even though they are known to be lying there. Too many mistakes have already happened and the puzzle is too difficult. Maybe time brings advice?
 
-**Finally.**
+# Finally.
 
 No one would ever visit Avebury if those stones weren't there. People are lured by the ambiguity and the mysterious background. Others come for their personal gain because according to the dowsers, many energy lines come together and the place is a charging point for the brain. If you're looking, you'll find a reason to come.       
 
