@@ -1,103 +1,132 @@
 ---
-title: Avebury Deel 2 - Vele details van de site
+title: Avebury Part 2 - Many details of the site.
 header:
   image: "/images/avebury2.jpg"
   caption: "Photo by Zoltan Tasi on [**Unsplash**](https://unsplash.com/photos/QxjEi8Fs9Hg)"
 published: false
 tags:
   - Avebury
-  - Reisverslag
+  - Travel report
 ---
 
-In dit deel gaan we wat dieper in op alle details van de Avebury site.
+In this section we go into more detail about all the details of the Avebury site.
 
-# Enkele algemeenheden.
+**Some generalities.**
 
-The Avebury Stone Circle en de Avebury Site liggen ongeveer 40 km ten noorden van Stonehenge. Alleen de parking dient betaald te worden. De toegang tot de vindplaats zelf is gratis.
+The Avebury Stone Circle and the Avebury Site are located about 40 km north of Stonehenge. Only the car park has to be paid for. Access to the site itself is free. 
 
-Vanwege de uitgestrektheid van de totale site is het moeilijk een globaal beeld te krijgen van de vindplaats, te meer omdat de dorpelingen in de 18de eeuw de stenen als bouwmateriaal hebben gebruikt. Toch zal je deze plek wel kunnen waarderen, want hij heeft een charme kunnen bewaren die Stonehenge niet meer heeft (al wordt de vindplaats in Avebury in het hoogseizoen ook druk bezocht).
+Due to the vastness of the entire site, it is difficult to get a global picture of the site, especially since the villagers used the stones as building material in the 18th century. However, you will appreciate this place, because it has a charm that Stonehenge no longer has (although the site in Avebury is also very popular in high season).
 
-Een aanrader is een bezoek aan het Alexander Keiller Museum in de voormalige abdij. Daar is alle informatie verzameld over de ganse site.  
+A must is a visit to the Alexander Keiller Museum in the former abbey. There all the information is collected about the entire site.  
 
-Avebury is een dorp in Groot-Brittannië in het Engelse graafschap Wiltshire. Het ligt 2 km ten noorden van de weg van Londen naar Bath. Er zijn ca. 500 inwoners. Het dorp is bekend omdat het gedeeltelijk ligt in ‘The Ring of Avebury’, het grootste zogenaamde henge-monument van Engeland. Het schattige dorp is omsingeld door een gebied van elf hectare vol stenen en aarden wallen die dateren van rond 2000 voor Christus:
-- John Aubrey sprak in 1648 over Avebury in termen van een kathedraal en over Stonehenge in termen van parochiekerk. Hij ontdekte het monument tijdens een vossenjacht en kreeg van koning Charles II de opdracht er een studie aan te wijden.
-- In de daarop volgende eeuw was het William Stukeley, eveneens oudheidkundige en student spirituele wetenschappen, die ontdekte dat het complex was aangelegd in de vorm van een slang. In vele culturen is dit het symbool voor spirituele energie.
+Avebury is a village in Great Britain in the English county of Wiltshire. It is located 2 km north of the road from London to Bath. There are about 500 inhabitants. The village is known for being partly located in 'The Ring of Avebury', the largest so-called henge monument in England. The cute village is surrounded by an area of eleven hectares full of stones and earthen ramparts dating from around 2000 BC:
+- John Aubrey spoke in 1648 about Avebury in terms of a cathedral and about Stonehenge in terms of parish church. He discovered the monument during a fox hunt and was commissioned by King Charles II to study it. 
+- In the following century it was William Stukeley, also an ancient and spiritual science student, who discovered that the complex had been constructed in the form of a serpent. In many cultures, this is the symbol of spiritual energy.
 
-In tegenstelling tot Stonehenge, dat werd gebouwd voor de aanbidding van de maan en de zon, lijkt de bouw van Avebury eerder verband te houden met de vruchtbaarheid, het leven en de dood. Er zijn veel aanwijzingen dat Avebury vaak werd gebruikt voor begrafenisplechtigheden. De mannelijke zuilvormige en vrouwelijke driehoekige stenen van de toegangslaan zijn opzettelijk bij elkaar geplaatst om zo het verband tussen de vruchtbaarheid en de dood door middel van deze sterk seksueel geladen symbolen zichtbaar te maken. De viering van de cyclus van de geboorte, het leven en de dood nam in het denken van de neolithische mens een zeer belangrijke plaats in. De rituelen van Avebury waren dan ook bedoeld om de levenden geluk te brengen en de doden nieuw leven te schenken.
+Unlike Stonehenge, which was built for the worship of the moon and the sun, the construction of Avebury seems more to be related to fertility, life and death. There is a lot of evidence that Avebury was often used for funeral ceremonies. The male columnar and female triangular stones of the entrance skips are deliberately placed together to reveal the link between fertility and death through these highly sexually charged symbols. The celebration of the cycle of birth, life and death took in the thinking of the Neolithic man a key place. The rituals of Avebury were therefore intended to bring happiness to the living and to give the dead new life.
 
-**Een woordje geschiedenis.**
+**A word of history.**
 
-- De bouw begon rond 2600 voor Chr., enkele honderden jaren na de eerste bouwfase in hout van Stonehenge. Het complex werd gebruikt en uitgebreid over een periode van ongeveer duizend jaar. Dus het was vlugger klaar dan Stonehenge, de constructie is ook eenvoudiger om te bouwen en dus is de stenen cirkel zelf wat ouder dan de stenen constructie in Stonehenge.
-- Evenals bij Stonehenge werd bij Avebury eerst een henge aangelegd: een ringwal en ringgracht. Oorspronkelijk was de wal maar liefst 17 m hoog. Hoewel dat niet langer het geval is, ziet hij er nog altijd imposant uit. Met een diameter van 370 m is deze henge bovendien de wijdste in heel het land. Het dorpje Avebury ligt er middenin. De kerk en het abdijgebouw/museum bevinden zich net buiten de henge.
-- De vondsten van klokbekeraardewerk in greppels en kuilen, die samenhangen met de stenen, maken het waarschijnlijk dat de steencirkels opgericht zijn tussen 2000 en 1800 voor Christus. De eerste aanleg van ‘The Ring’ is waarschijnlijk enige eeuwen ouder en zou met houten palen zijn gebeurd. Het plaatselijke Alexander Keiller Museum geeft een interessant overzicht van alle prehistorische monumenten uit de omgeving. De maquette van het ganse complex loont de moeite.
-- Alleen al het feit dat de stenen in Avebury onbewerkt zijn maakt het al aannemelijk dat zij ouder zijn dan die van Stonehenge. Men schat dat die van Stonehenge zo rond 1500 voor Christus geplaatst zijn. Pas toen kenden de mensen blijkbaar de techniek om stenen te bewerken.
-- Afgerond mogen we zeggen:             
-	- Voor Avebury behoort deze periode tot de allerlaatste fase van het Neolithicum of Nieuw Steentijdperk of ca 2000 voor Christus.                                                                                            
-	- Voor Stonehenge behoort deze periode tot de beginfase van het Bronstijdperk of ca 1500 voor Christus.
+Construction began around 2600 BC, several hundred years after the first phase of construction in stonehenge wood. The complex was used and expanded over a period of about a thousand years. So it was more quickly finished than Stonehenge, the construction is also easier to build and so the stone circle itself is a bit older than the stone construction in Stonehenge.
 
-**Het transport.**
-- Het is zeer duidelijk hoe deze enorme stenen vervoerd en vervolgens rechtop gezet werden. Allen zijn ze afkomstig van de nabijgelegen Marlborough Downs. Uit datzelfde gebied komen ook de imposante stenen van Stonehenge. De megalieten van Avebury en Stonehenge worden Sarsen genoemd:
-	- De mensen hadden voldoende kennis en het is waarschijnlijk dat ze houten rollers gebruikten om de stenen te vervoeren. Honderden mensen en tientallen ossen zijn daarbij aanwezig geweest. Hierbij hebben zij ongetwijfeld een route gevolgd met zo min mogelijk steile hellingen en gevaarlijke afdalingen. Zo een traject is op die 20 km afstand wel te vinden.
-	- Het valt ook niet uit te sluiten dan een deel van het traject over water gebeurde. De rivier de Kennet bood die mogelijkheid. De kennis om een vlot te bouwen was zeker voorhanden.
-- Wanneer de stenen eenmaal op de plaats van bestemming waren, werden ze met behulp van houten rollers, touwen en hefbomen in een diep gat geplaatst. Rondom de voet van de stenen werd kalk en aarde aangestampt om ze op hun plaats te houden.
-- Mogelijk koste het ongeveer één jaar om één steen definitief op zijn plaats te brengen en moesten er hiervoor 600 mensen samenwerken.
+As with Stonehenge, a henge was first built at Avebury: a ring wall and ring moat. Originally the shore was no less than 17 m high. Although that is no longer the case, he still looks impressive. With a diameter of 370 m, this henge is also the widest in the whole country. The village of Avebury is in the middle of it. The church and the abbey building/museum are located just outside the henge. 
+
+The finds of bell cup pottery in ditches and pits, which are related to the stones, make it likely that the stone circles were erected between 2000 and 1800 BC. The first construction of 'The Ring' is probably a few centuries older and would have happened with wooden poles. The local Alexander Keiller Museum gives an interesting overview of all the prehistoric monuments in the area. The model of the entire complex pays off. 
+
+The mere fact that the stones in Avebury are unprocessed makes it plausible that they are older than those of Stonehenge. It is estimated that those of Stonehenge were placed around 1500 BC. It was only then that people apparently knew the technique of machining stones. 
+
+Rounded may we say:             
+- For Avebury, this period belongs to the very last phase of the Neolithic or New Stone Age or about 2000 BC.   
+- For Stonehenge, this period belongs to the early stages of the Bronze Age or about 1500 BC.
+
+**The transport.**
+
+It is very clear how these huge stones were transported and then put upright. All are from the nearby Marlborough Downs. From that same area come also the imposing stones of Stonehenge. The megaliths of Avebury and Stonehenge are called Sarsen:
+- The people had sufficient knowledge and it is likely that they used wooden rollers to transport the stones. Hundreds of people and dozens of oxen were present. They have undoubtedly followed a route with as few steep slopes and dangerous descents as possible. Such a route can be found at that 20 km distance.
+- It is also not possible to rule out that part of the route was done by water. The River Kennet offered that opportunity. The knowledge to build a raft was certainly available.
+	
+Once the stones were at their destination, they were placed in a deep hole using wooden rollers, ropes and levers. Around the base of the stones, lime and earth were rammed to hold them in place. 
+It may have taken about one year to finally put one stone in place and 600 people had to work together.
 
 ![](/images/Avebury map bewerkt.jpg)
 
-**De constructie zelf.**
-- De ganse site is veel ruimer dan de cirkel en bestond uit ongeveer 600 megalieten. Meer dan de helft is ondertussen verdwenen en nog eens de helft daarvan staat rechtop en mogelijk op de juiste plaats. De ganse site omvat:
-	- De cirkel met greppel en aarden wal – **The Avebury Stone Circle**.
-	- Twee toegangswegen – **The West Kennet Avenue en the Beckhampton Avenue**.
-	- Het heiligdom – **The Sanctuary**.
-	- Een kalkstenen heuvel – **The Silbury Hill**.
-	- Een begraafplaats – **The West Kennet Long Barrow**.
-	- Een nederzetting – **The Windmill Hill**.
+**The construction itself.**
 
-**The Avebury Stone Circle**
-- De cirkel is niet helemaal perfect. Hoogst waarschijnlijk is dat doelbewust gebeurd want men kon zeker eenvoudig met een houten paal en een touw een perfecte cirkel maken. De diameter wordt op 400 m gehouden.
-- Men gebruikte massieve, onbewerkte stenen. Men ziet dat de stenen met hun gladde kant, zeg maar de meest geërodeerde kant, naar binnen zijn geplaatst. Het is de grootste in zijn soort en op één na de grootste in de wereld. Het dorpje Avebury overlapt een gedeelte van de cirkel waar eens stenen stonden.  
-- Zoals reeds vermeld bestond de cirkel zelf uit een 100-tal stenen en hier blijven er nog geen 30 van over, 28 om precies te zijn. Dit zijn veruit de grootste stenen. De andere stenen op de site variëren in grootte van 2,1 tot 5,5 meter. Ze variëren in gewicht van 10 tot 60 ton.
-- In de noordelijke en de zuidelijke helft van deze cirkel bevonden zich twee kleinere (diameter ongeveer 100 m) cirkels van staande stenen waarbinnen weer andere stenen opgericht waren. In het patroon van deze laatste stenen is nu geen regelmaat of systeem meer te zien. Hun bedoeling is ook niet duidelijk en de High Street loopt gewoon tussen de beide kleinere cirkels door. Ze worden de noordelijke en de zuidelijke cirkel genoemd en ze zijn wel perfect cirkelvormig. Vermoedelijk zijn ze 100 jaar ouder dan de grote omringende cirkel:
-	- De noordelijke cirkel is 99 meter in diameter en bestond oorspronkelijk uit 27 stenen, waarvan er vandaag de dag nog vier overeind staan.
-	- De zuidelijke cirkel is 105 meter in diameter en telde 29 stenen, waarvan er nog vijf op hun plaats zijn. Merlin of England noemt de noordelijke cirkel de ‘zoncirkel’ en de zuidelijke de ‘maancirkel’. Hiermede verwijst hij naar een mogelijke kalenderfunctie. Dit wordt algemeen gezien weinig aanvaard.
+The entire site is much larger than the circle and consisted of about 600 megaliths. More than half have since disappeared and another half are standing upright and possibly in the right place. The entire site includes:
+- The circle with ditch and earthen shore – **The Avebury Stone Circle**.
+- Two access roads – **The West Kennet Avenue and the Beckhampton Avenue**.
+- The sanctuary – **The Sanctuary**.
+- A limestone hill – **The Silbury Hill**.
+- A cemetery – **The West Kennet Long Barrow**.
+- A settlement – **The Windmill Hill**.
 
-- Rond het ganse monument heen ligt een oorspronkelijk bijna 10 m diepe greppel en daarbuiten een hoge aarden wal, waarvoor die bedoeld was is niet echt duidelijk maar vermits hij aan de buitenkant ligt lijkt verdediging onwaarschijnlijk. Wal en greppel werden hoogst waarschijnlijk het eerst aangelegd en de rest volgde in fasen. Men gebruikte beenderen om de grond wat los te werken en zo gebruikte men het schouderblad van een hert als schop. Wal en greppel zijn op vier plaatsen (de vier windstreken) onderbroken en markeren op die manier ingangen en uitgangen. Overal is door opgraving gebleken dat dit de oorspronkelijke opzet was, momenteel lopen er moderne wegen doorheen. Het dient vermeld te worden dat door de aanwezigheid van de kalk in de ondergrond, zowel de greppel als de wal sneeuwwit overkwamen, een opvallende streling voor het oog.
-- Enkele bijzondere stenen:
-	- Er is om te beginnen de Barber Stone (Stone Number 9). Hier zou 800 jaar geleden een kapper verongelukt zijn toen men probeerde de steen te begraven, hij zou er dus onder gekomen zijn. De steen staat in het zuidwestelijke deel van de cirkel. Hij is dus terug rechtop gezet in 1830 door Alexander Keiller en het lichaam van de ongelukkige is verwijderd. Op het lichaam werd een schaar gevonden wat de aanleiding was tot de naam Barber Stone. Er werden ook muntstukken gevonden een belangrijk hulpmiddel om het skelet te dateren op zowat 1200 na Christus. Charlie werd overgebracht naar het Natural History Museum in Londen. De gaten in de steen zouden veroorzaakt zijn door wortels van planten.
-	- Er is de zogenaamd Devil’s Chair (Stone Number 1). Hij vertoont een duidelijk zitplaats. Vrouwen deden hier hun intieme wensen op de momenten dat de dag en de nacht even lang waren. De steen staat op de plaats waar de West Kennet Avenue bij de cirkel komt.                                                                                                           
-	- De aller zwaarste megaliet is er een die in de Cove staat. Cove betekent een beschutte plek, we zitten hier in het midden van de noordcirkel en misschien was dit wel de plaats waar de rituelen werden uitgevoerd. Men gelooft dat laag gezang weerkaatst wordt binnen die stenen plek. De Cove bestaat uit drie stenen. De grootste dus is duidelijk een vrouwelijke steen en wordt daarom Eve (Stone Number I) genoemd. Hij zou 100 ton wegen en hij zou de grootste zijn in zijn soort. Ernaast staat een zuil wat dan weer duidelijk een mannelijke steen is en wordt daarom Adam (Stone Number II) genoemd. De derde steen, waarbinnen dan de beschutte plek moet gesitueerd worden, ontbreekt.
-	- De tweede zwaarste megaliet die bewaard is gebleven, is de circa 65 ton wegende Swindon Stone (Stone Number 46) die bij de noordingang staat, dit is trouwens de weg naar Swindon en langs deze weg kan men een goed voorbeeld van een wit paard zien. Deze reusachtige steen balanceert al 4000 jaar eenzaam op één hoek, want zijn overbuur is verdwenen.                                                                                        
-	- Er is de Ring Stone, eigenlijk een nummer loze stomp waar men gemakkelijk voorbij kan lopen. Zijn naam verwijst zeker naar het gebruik om hier een huwelijksbelofte uit te spreken en dat dan te bezegelen met een ring.
-	- Er is ook nog de Vulva Stone (Stone Number 105). De opmerkelijke groeve in de steen verwijst zonder meer naar het vrouwelijk geslachtsorgaan. De steen maakt deel uit van de zuidcirkel.
-	- In het midden van de zuidcirkel zou een obelisk gestaan hebben, de plaats wordt nu gemarkeerd door een betonnen stomp, een Plinth. De zogenaamde obelisk zou een opvallende lengte gehad hebben. In 1724 was hij nog ter plaatse maar hij lag toen al wel tegen de grond. Toen werd berekend dat hij ruim 6 m boven de grond zou uitgestoken hebben.
+**The Avebury Stone Circle.**
 
-**The West Kennet Avenue en the Beckhampton Avenue**
-- Er is een eerste toegangsweg en die begint bij de zuidoostelijke uitgang met een dubbele rij rechtopstaande stenen, in paren ongeveer 30 m van elkaar gezet, de zogenaamde ‘West Kennet Avenue’. Als symbool van mannelijkheid en vrouwelijkheid hadden ze per paar twee verschillende vormen, de ene breed en de andere smal. Deze laan voert over iets meer dan 2 km naar het Sanctuary even ten oosten van het dorp West Kennet. De laan wordt beschouwd als een processieweg. Binnen rijdend over de B4003 geeft zicht op enkele paarsgewijze stenen.                                                                                                                 
-- Er is een tweede toegangsweg, ook een processieweg en die leidt naar het westen naar een Long Barrow. Dit is de zogenaamde ‘Beckhampton Avenue’. Het feit dat deze weg naar een begraafplaats leidde hielp bij de besluitvorming om Avebury als rituele plaats van dood, leven en vruchtbaarheid te klasseren.**
+The circle is not quite perfect. Most likely this was done deliberately because one could certainly easily make a perfect circle with a wooden pole and a rope. The diameter is kept at 400 m.  
 
-**The Sanctuary**
-- Dit heiligdom bestond uit twee concentrische cirkels van stenen, waarvan de buitenste een middellijn van ongeveer 30 m had. Alle stenen van het heiligdom zijn omvergehaald en stukgeslagen. In een eerste versie zouden hier houten paalkransen gestaan hebben.
-- Archeologen hebben de omtrek van het heiligdom met kleine platte stenen gemarkeerd.
-- In de grond zelf zijn veel sporen van menselijke activiteit gevonden.
-- De datering gaat terug tot 3000 voor Christus.
-- Van hieruit kon men dus via The West Kennet Avenue naar The Stone Circle.
-- Het heiligdom is te zien vanop de weg.
+They used solid, unprocessed stones. One sees that the stones with their smooth side, so to speak the most eroded side, are placed inwards. It is the largest of its kind and the second largest in the world. The village of Avebury overlaps a part of the circle where stones once stood.  
 
-**The Silbury Hill**
-- Twee kilometer zuidwaarts ligt Silbury Hill Round Barrow, de hoogste door mensen gemaakte heuvel in Europa. De hoogte is 40 m en de diameter zou 168 m zijn.
-- De heuvel is door middel van de radio-koolstofmethode gedateerd rond 2700 voor Christus. We zitten dan volop in het Neolithicum of Nieuw Steentijdperk. De heuvel kon vroeger via een smal paadje beklommen worden. De heuvel dankt zijn stabiliteit aan het feit dat de bouwheren inwendig een soort honingraat structuur van kalkstenen hebben aangebracht. Hier zouden 500 mensen tien jaar lang dag in dag uit aan gewerkt moeten hebben. In zijn grondoppervlak past een volledig voetbalveld.
-- Het doel van de heuvel is echter niet bekend. Archeologisch onderzoek heeft geen sporen opgeleverd van grafkamers. Mogelijk is het een heiligdom, een offerplaats of had het een astronomische functie.
-- De heuvel zou vroeger beduidend enkele meters hoger geweest zijn. De top is er als het ware afgeregend, dit kan. Er zou toen een metalen staaf op geplaatst zijn, die diende als bliksemafleider. De elektrische ontladingen naar de grond deden de aarde ioniseren. Het binnen skelet van kalk zorgde voor een goede geleiding. De zure omgeving werd (tijdelijk) meer basisch en daarin kunnen planten beter aan hun voedingsstoffen geraken en dus beter groeien. Dit proces en daarmee betere landbouw zou zijn effect hebben op zo een 16 vierkante kilometer. Zeg maar 4 km op 4 km en daarmee is gans de neolithische nederzetting gedekt.
-- Het feit dat de heuvel vandaag minder hoog is vermindert de kans op een blikseminslag. Men denkt dat The White Horse in de omgeving mogelijk die functie heeft overgenomen. En zo krijgen we dan een verklaring voor het fenomeen White Horses in deze omstreken.
+As already mentioned, the circle itself consisted of about 100 stones and there are less than 30 of them left, 28 to be exact. These are by far the largest stones. The other stones on the site range in size from 2.1 to 5.5 meters. They range in weight from 10 to 60 tons. 
 
-**The West Kennet Long Barrow**
-- Nog één kilometer verder zuidwaarts ligt West Kennet Long Barrow.
-- Zo een Long Barrow is een oudere en langwerpige grafheuvel. Dit is dus een echte grafheuvel die rond 3700 voor Christus in gebruik is genomen. Er zijn een vijftal grafkamers in gevonden die nadien zijn toegedekt met aarde. Men heeft die kamers leeg gemaakt en men kan die binnenin ten allen tijden bezoeken, de moeite.
-- Hier in de buurt verschijnt er zo af en toe wel eens een graancirkel, de makers zijn bekend en komen er ook voor uit.   
+In the northern and southern half of this circle there were two smaller (diameter about 100 m) circles of standing stones within which other stones were erected. In the pattern of these last stones, there is now no regularity or system to be seen. Their intention is also not clear and the High Street simply runs between the two smaller circles. They are called the northern and southern circle and they are perfectly circular. Presumably they are 100 years older than the large surrounding circle:
+	- The northern circle is 99 meters in diameter and originally consisted of 27 stones, of which four are still standing today. 
+	- The southern circle is 105 meters in diameter and has 29 stones, five of which are still in place. Merlin of England calls the northern circle the 'sun circle' and the southern one the 'moon circle'. With this he refers to a possible calendar function. This is generally little accepted.
 
-**The Windmill Hill**                                                                                                            
-- Twee kilometer noordwaarts ligt Windmill Hill, de vindplaats waarnaar de neolithische Windmill Hill-cultuur is genoemd.
-- Het gaat hier over een vrij omvangrijke nederzetting, door 3 cirkelvormige grachten en aarden wallen afgezet.
-- De bewoning valt te situeren tussen 3700 en 2500 voor Christus.
-- Hier werd veel klokbekeraardewerk gevonden. Dit zijn de oudste sporen van menselijke aanwezigheid.
-- Gelijktijdig met deze nederzetting begon men ook met de bouw en de ingebruikname van de zogenaamde West Kennet Long Barrow die nog iets zuidelijker ligt van Silbury Hill.
+Around the entire monument lies an original nearly 10 m deep ditch and beyond a high earthen wall, for which it was intended is not really clear but since it is on the outside defense seems unlikely. Shore and ditch were most likely first laid out and the rest followed in phases. Bones were used to loosen the ground and so used the shoulder blade of a deer as a shovel. Shore and ditch are interrupted in four places (the four corners of the wind) and thus mark entrances and exits. Everywhere excavation has shown that this was the original design, currently modern roads walk through it. It should be noted that due to the presence of the lime in the subsoil, both the ditch and the shore came across snow white, a striking caress for the eye.
+
+![](/images/Avebury cirkel bewerkt.jpg)
+
+Some special stones:
+- There is to begin with the Barber Stone (Stone Number 9). Here, 800 years ago, a hairdresser would have died trying to bury the stone, so he would have fallen under it. The stone is located in the southwestern part of the circle. He is thus put back upright in 1830 by Alexander Keiller and the body of the unfortunate one is removed. A pair of scissors was found on the body, which gave rise to the name Barber Stone. Coins were also found an important tool to date the skeleton to some 1200 AD. Charlie was transferred to the Natural History Museum in London. The holes in the stone would have been caused by the roots of plants. 
+- There is the so-called Devil's Chair (Stone Number 1). He's got a clear seat. Women made their intimate wishes here at times when the day and night were equally long. The stone is located where West Kennet Avenue joins the circle.                                                                                                           
+- The heaviest megalith is one that stands in the Cove. Cove means a sheltered place, we are here in the middle of the north circle and maybe this was the place where the rituals were performed. It is believed that low chanting is reflected within that stone spot. The Cove consists of three stones. The largest is clearly a female stone and is therefore called Eve (Stone Number I). He'd weigh 100 tons and he'd be the biggest of its kind. Next to it is a column which is clearly a male stone and is therefore called Adam (Stone Number II). The third stone, within which the sheltered place must be situated, is missing. 
+- The second heaviest megalith that has been preserved is the approximately 65 tons of Swindon Stone (Stone Number 46) which stands at the north entrance, this is the road to Swindon and along this road one can see a good example of a white horse. This giant stone has been balancing lonely on one corner for 4,000 years, because its neighbor has disappeared.                                                                                        
+- There is the Ring Stone, actually a numberless stump that one can easily walk past. His name certainly refers to the use of a wedding promise here and then sealed it with a ring.
+- There is also the Vulva Stone (Stone Number 105). The remarkable quarry in the stone refers without a doubt to the female sex organ. The stone is part of the south circle. 
+- In the middle of the south circle would have stood an obelisk, the place is now marked by a concrete stump, a Plinth. The so-called obelisk would have had a striking length. In 1724 he was still on the ground, but he was already lying on the ground. Then it was calculated that he would have crossed more than 6 m above the ground.
+
+**The West Kennet Avenue and the Beckhampton Avenue.**
+
+There is a first access road and which starts at the south-east exit with a double row of upright stones, paired about 30 m apart, the so-called 'West Kennet Avenue'. As a symbol of masculinity and femininity, they had two different forms per pair, one wide and the other narrow. This avenue leads about 2 km to the Sanctuary just east of the village of West Kennet. The avenue is considered a processional road. Driving inside on the B4003 gives a view of some purple stones.           
+
+There is a second access road, also a processional road and which leads west to a Long Barrow. This is the so-called Beckhampton Avenue. The fact that this path led to a cemetery helped in the decision to classify Avebury as a ritual place of death, life and fertility.**
+
+**The Sanctuary.**
+
+This sanctuary consisted of two concentric circles of stones, the outer of which had a center line of about 30 m. All the stones of the sanctuary have been knocked down and smashed. In a first version, there would have been wooden pile wreaths here. 
+
+Archaeologists have marked the perimeter of the shrine with small flat stones. 
+
+Many traces of human activity have been found in the ground itself. Dating dates back to 3000 BC. 
+
+From here you could go to The Stone Circle via The West Kennet Avenue.
+
+The sanctuary can be seen from the road. 
+                                                                                                                        
+**The Silbury Hill.**
+
+Two kilometres south is Silbury Hill Round Barrow, the highest man-made hill in Europe. The height is 40 m and the diameter would be 168 m. 
+
+The hill is dated by means of the radio-carbon method around 2700 BC. We are in the Neolithic or New Stone Age. The hill used to be climbed via a narrow path. The hill owes its stability to the fact that the builders have internally applied a kind of honeycomb structure of limestone. 500 people should have worked on this day in and day out for ten years. In its ground surface fits an entire football field. 
+
+However, the purpose of the hill is not known. Archaeological research has yielded no traces of burial chambers. It may have been a sanctuary, a sacrificial place or had an astronomical function. 
+
+The hill would have been significantly a few meters higher earlier. The top is rained out, this is possible. It would have been placed on it at the time, which served as a lightning rod. The electrical discharges to the ground ionized the Earth. The inner skeleton of lime provided a good conduction. The acidic environment became (temporarily) more basic and in it plants can better get their nutrients and thus grow better. This process and thus better agriculture would have an effect on such a 16 square kilometre. Say 4 km by 4 km and with that the whole neolithic settlement is covered. 
+
+The fact that the hill is less high today reduces the chance of a lightning strike. It is thought that The White Horse in the area may have taken over that function. And so we get an explanation for the phenomenon of White Horses in these areas. 
+
+**The West Kennet Long Barrow.**
+
+Another mile further south is West Kennet Long Barrow. 
+
+Such a Long Barrow is an older and elongated burial mound. So this is a real burial mound that was put into use around 3700 BC. Five burial chambers were found in it, which were subsequently covered with earth. These rooms have been emptied and they can be visited at all times, the trouble. 
+
+Around here, a crop circle occasionally appears, the makers are well known and come out for it.   
+
+**The Windmill Hill.**    
+
+Two kilometres north is Windmill Hill, the site after which neolithic Windmill Hill culture is named. 
+
+This is a fairly extensive settlement, deposited by 3 circular canals and earthen ramparts. The habitation can be situated between 3700 and 2500 BC. A lot of bell cup pottery was found here. These are the oldest traces of human presence. 
+
+At the same time as this settlement, construction and commissioning of the so-called West Kennet Long Barrow, which is a little further south of Silbury Hill, was also started.

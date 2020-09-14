@@ -16,10 +16,9 @@
 title: "Δě Watcher"
 email: "wimwatcherwilly@gmail.com"
 description: >-
-  Het enige wat ik doe is met al mijn zintuigen informatie verzamelen uit
-  alle mogelijke bronnen. Dan volgt rangschikken, groeperen en van
-  commentaar voorzien. Dat is het. Ik put daaruit voldoening.
-
+  All I do is gather information from all possible sources with all my senses.
+  Then it follows ranking, grouping and commenting. 
+  That's it. I'm satisfied with that.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
@@ -29,6 +28,8 @@ search: true
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+repository: wimols/wimols.github.io
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
@@ -59,15 +60,25 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Analytics
+analytics:
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : "UA-177964894-1"
+
+# Comments
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "de-watcher"
+
 author:
   name   : "Wim Watcher Willy"
   avatar : "/images/profile.jpg"
   bio    : >-
-    Het enige wat ik doe is met al mijn zintuigen informatie verzamelen uit
-    alle mogelijke bronnen.<br>
-    Dan volgt rangschikken, groeperen en van
-    commentaar voorzien.<br>
-    Dat is het. Ik put daaruit voldoening.
+    All I do is gather information from all possible sources with all my senses.<br>
+    Then it follows ranking, grouping and commenting. <br>
+    That's it. I'm satisfied with that.
   location: "Geel, Belgium"
   links:
     - label: "E-mail"
