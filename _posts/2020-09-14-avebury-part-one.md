@@ -2,11 +2,11 @@
 title: Avebury Part 1 - How did it come to this?
 header:
   image: "/images/avebury1.jpg"
-  caption: "Photo by Frans Van Heerden on [**Pexels**](https://www.pexels.com/photo/stone-near-tree-1590511/)"
-published: false
+  caption: Photo by Frans Van Heerden on [**Pexels**](https://www.pexels.com/photo/stone-near-tree-1590511/)
+published: true
 tags:
-  - Avebury
-  - Travel report
+- Avebury
+- Travel report
 ---
 
 I would like to explain my travelogue of my various trips to Avebury. These blog posts will consist of more parts. I hope you like it.
