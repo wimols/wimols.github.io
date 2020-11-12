@@ -1,7 +1,7 @@
 ---
-title: Avebury Part 3/5 - The Stone Circle, many details.
+title: Avebury Part 3/6 - The Stone Circle, many details.
 header:
-  image: "/images/avebury4.jpg"
+  image: images/avebury3.jpg
   caption: Photo by Jim Champion on [**Wikipedia**]
 published: true
 tags:

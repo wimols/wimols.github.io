@@ -1,7 +1,7 @@
 ---
-title: Avebury Part 4/5 - The Site, other details.
+title: Avebury Part 4/6 - The Site, other details.
 header:
-  image: images/avebury3.jpg
+  image: images/avebury4.jpg
   caption: Photo by Gobeirne on [**Wikipedia**]
 published: false
 tags:
@@ -90,23 +90,7 @@ The sanctuary can be seen from the road.
 
 <span style="color: blue;">The Silbury Hill</span>. 
 
-Two kilometres south is Silbury Hill Round Barrow, the highest man-made hill in Europe. The height is 40 m, the diameter is 168 m and the circumference is 0.5 km. In its ground surface fits an entire football field. The hill used to be climbed via a narrow path, now there is a small parking for the view.
-
-The hill is dated by means of the radio-carbon method around 2700 BC. We are in the Neolithic or New Stone Age.  The hill owes its stability to the fact that the builders internally applied a kind of honeycomb structure of limestone, which required no less than 500 000 tons. 500 people should have worked on this day in and day out for ten years. It is believed that the hill was built in stages and thus systematically increased.
-
-However, the purpose of the hill is not fully known:
-* <u>Archaeological</u> research has not yielded any traces of burial chambers. It may have been a sanctuary, a sacrificial place or had an astronomical function.
-* In the <u>Roman</u> period, a settlement was formed at the foot of the hill.
-* In the ensuing <u>Saxon</u> period, the hill was flattened and used as a vantage point.
-
-In modern times, the hill was examined several times:
-* In <u>1776</u> miners dug a vertical shaft in the middle of the hill. They were looking for a central burial chamber, but they didn't find anything.
-* In <u>1849</u> a horizontal tunnel was drilled, but again nothing was found.
-* The result of these ill-considered interventions led in <u>2000</u> to the collapse of the summit and the opening of a 45 m deep crater. It took a lot of money to close the opening with the help of a helicopter, but it did produce a nice reportage.
-
-Recently a bold feature appeared. The hill would have been significantly a few meters higher earlier. The top is rained out, this is possible. It would have been placed on it at the time, which served as a lightning rod. The electrical discharges to the ground ionized the Earth. The inner skeleton of lime provided a good conduction. The acidic environment became (temporarily) more basic and in it plants can better get their nutrients and thus grow better. This process and thus better agriculture would have an effect on such a 16 square kilometre. Say 4 km by 4 km and with that the whole neolithic settlement is covered. 
-
-The fact that the hill is less high today reduces the chance of a lightning strike. It is thought that The White Horse in the area may have taken over that function. And so we get an explanation for the phenomenon of White Horses in these areas. 
+This eye-catcher deserves a separate story. You can read it in part 5 of this blog: The Silbury Hill, a separate story.
 
 <span style="color: blue;">The West Kennet Long Barrow</span>. 
 

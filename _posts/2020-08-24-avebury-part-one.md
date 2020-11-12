@@ -1,5 +1,5 @@
 ---
-title: Avebury Part 1/5 - How did it come to this?
+title: Avebury Part 1/6 - How did it come to this?
 header:
   image: "/images/avebury1.jpg"
   caption: Photo by Frans Van Heerden on [**Pexels**]
@@ -25,7 +25,7 @@ tags:
 - Solstice
 ---
 
-I would like to explain my travelogue of my various trips to Avebury. These blog posts will consist of five parts. I hope you like it.
+I would like to explain my travelogue of my various trips to Avebury. These blog posts will consist of six parts. I hope you like it.
 
 # An overview.
 We see today a battered monument in which man lives. We are lucky to be able to touch the stones, something that is virtually forbidden in Stonehenge. The National Trust manages the stones:
