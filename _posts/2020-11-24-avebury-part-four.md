@@ -1,7 +1,7 @@
 ---
 title: Avebury Part 4/6 - The Site, other details.
 header:
-  image: images/avebury4.jpg
+  image: avebury4.jpg
   caption: Photo by Gobeirne on [**Wikipedia**]
 published: false
 tags:
@@ -94,12 +94,14 @@ This eye-catcher deserves a separate story. You can read it in part 5 of this bl
 
 <span style="color: blue;">The West Kennet Long Barrow</span>. 
 
-One kilometre further south is West Kennet Long Barrow. Such a Long Barrow is an older and elongated burial mound, 100 m long and 20 m wide. So this is a real burial mound that was put into use around 3700 BC:
+One kilometre further south is West Kennet Long Barrow. Such a Long Barrow is an older and elongated burial mound, 100 m long and 20 m wide. This is therefore a real and exceptionally large burial mound that was put into use around 3700 BC. The people had put a lot of effort into agriculture and they had settled in the area. The tomb may have served for 1,000 years:
 * In front of the entrance there is a <u>small open space</u> where people probably gathered, before the burial took place.
-* The narrow entrance is marked by <u>3 huge megaliths</u>.
-* Inside, 5 stone rooms were decorated. Afterwards, everything was <u>covered</u> with tons of sand.
+* The narrow entrance is marked by <u>3 huge megaliths</u>. The transport and creation of these stones certainly posed enormous problems to the people of the day. For some, it's kind of an exercise for what was to come in Avebury and Stonehenge.
+* Inside, 5 stone rooms were furnished, accessible via a corridor. Afterwards, everything was <u>covered</u> with tons of sand and the hill was sealed and abandoned.
 
-Traces of at least 35 different individuals were found in those chambers. It's possible that each room represented some kind of social status. Everything is emptied and one can take a look inside freely. 
+Lucrative and minor grave violations probably happened during the Roman period. Multiple coins found prove this. Real archaeological research and therefore excavations date back to the mid-19th century and the mid-20th century.
+
+Traces of at least 40 different individuals were found in those chambers. It's possible that each room represented some kind of social status. Everything is emptied and one can take a look inside freely.
 
 The Barrow exhibits an east-west orientation and the connection with the sunrise/sunset can be made.
 

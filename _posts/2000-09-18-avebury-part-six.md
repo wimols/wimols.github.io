@@ -1,7 +1,7 @@
 ---
 title: Avebury Part 6/6 - White horses and crop circles.
 header:
-  image: images/avebury6.jpg
+  image: avebury6.jpg
   caption: Reconstruction preserved by Alder Grove on [**Pinterest**]
 published: false
 tags:
@@ -52,13 +52,12 @@ Chiseling white horses into the limestone is actually a kind of national sport o
 * <u>Student clubs and associations</u> imitated them. The most recent horse was made in 1999 to strengthen the millennium. 
 
 Two horse figures are located near Avebury:
-1. <span style="color: blue;">The Hackpen White Horse</span>. A very clear example is on the road from Avebury to Swindon in the north, towards M4. It is located on the A4361 on the right, on the Hackpen Hill. Small but fine. This horse was supposed to have been made during the reign of Queen Victoria in 1838. The intention was to commemorate her coronation of one year ago. Promoters were the breadwinner and the owner of the local pub. The dimensions are 27 m by 27 m. The limited slope would be compensated by playing with perspective. It is interesting to add that in the summer the horse is covered with colorful cloths by the local circle of friends to give it a little more fleur. Up close it is all much less beautiful and there was a time when the horse was only in a very good place.
+1. <span style="color: blue;">The Preshute White Horse</span>, an example in Marlborough. This was made in 1804 by boys from the local boarding school. The horse is 62 m long at 47 m high. It has become somewhat thinner since the beginning of the twentieth century due to a temporary lack of maintenance. It was restored again in September 2001. It is still sanded off annually and cleaned up by the students during their party week. A verse of the school song refers to the horse. It is best to see this horse figure on foot because trees obstruct the view for a long time. From Marlborough College, walk along the footpath along the A4 (towards Bath) and then left to Preshute Church. Again on the left is the horse to be seen.
+2. <span style="color: blue;">The Hackpen White Horse</span>. Another very clear example is on the road from Avebury to Swindon in the north, towards M4. It is located on the A4361 on the right, on the Hackpen Hill. Small but fine. This horse was supposed to have been made during the reign of Queen Victoria in 1838. The intention was to commemorate her coronation of one year ago. Promoters were the breadwinner and the owner of the local pub. The dimensions are 27 m by 27 m. The limited slope would be compensated by playing with perspective. It is interesting to add that in the summer the horse is covered with colorful cloths by the local circle of friends to give it a little more fleur. Once upon a time, the horse did not escape the so-called Red Nose Day. Up close it is all much less beautiful and there was a time when the horse was only in a very good place. Opponents, by the way, looked more like a fox than a horse. Nevertheless, there are annual barn days where the contours are refreshed and the horse is maintained. The horse can be reached on foot from a car park. You can touch it easily.
 
 <div align="center"><img src="/images/Hackpen.jpg" alt="" width="" height=""></div>
 
 <p style="text-align: center; font-size: 12pt;"><span style="color: blue;"><i>The Hackpen on Wikipedia</i></span></p>
-
-3. <span style="color: blue;">The Preshute White Horse</span>. Another example in Marlborough. This was made in 1804 by boys from the local boarding school. The horse is 62 m long at 47 m high. It has become somewhat thinner since the beginning of the twentieth century due to a temporary lack of maintenance. It was restored again in September 2001. It is still sanded off annually and cleaned up by the students during their party week. A verse of the school song refers to the horse. It is best to see this horse figure on foot because trees obstruct the view for a long time. From Marlborough College, walk along the footpath along the A4 (towards Bath) and then left to Preshute Church. Again on the left is the horse to be seen.
 
 # Uffington White Horse.
 
