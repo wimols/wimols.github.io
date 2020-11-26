@@ -3,7 +3,7 @@ title: Avebury Part 4/6 - The Site, other details.
 header:
   image: avebury4.jpg
   caption: Photo by Gobeirne on [**Wikipedia**]
-published: false
+published: true
 tags:
 - Avebury
 - Travel report
