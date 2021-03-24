@@ -3,7 +3,7 @@ title: Mars Part 2/4 - A fantasized prediction.
 header:
   image: "/images/mars.jpg"
   caption: Photo from [**Pixabay**](https://pixabay.com/nl/illustrations/mars-zon-zonnestelsel-ruimte-1326108/)
-published: false
+published: true
 tags:
 - Mars
 ---
