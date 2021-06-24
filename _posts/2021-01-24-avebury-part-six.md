@@ -25,7 +25,7 @@ tags:
 - Ditch
 ---
 
-In Wiltshire, these two phenomena capture the imagination. There is something to be told about it, but the story is not entirely conclusive.
+<span style="color: blue;">In Wiltshire, these two phenomena capture the imagination. There is something to be told about it, but the story is not entirely conclusive.</span>
 
 # Where did that white color come from?
 

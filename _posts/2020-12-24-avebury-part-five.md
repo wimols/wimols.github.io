@@ -25,7 +25,7 @@ tags:
 - Ditch
 ---
 
-This limestone hill is an enigmatic eye-catcher and therefore deserves a separate story.
+<span style="color: blue;">This limestone hill is an enigmatic eye-catcher and therefore deserves a separate story.</span>
 
 # A few generalities.
 Two kilometres south of the Avebury Stone Circle is Silbury Hill Round Barrow. This is the <span style="color: blue;">tallest man-made hill</span> in Europe:

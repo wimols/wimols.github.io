@@ -25,7 +25,7 @@ tags:
 - Ditch
 ---
 
-Here are the details of the entire  Avebury Site.
+<span style="color: blue;">Here are the details of the entire  Avebury Site.</span>
 
 # Some generalities.
 The Avebury Stone Circle and the Avebury Site are located about 40 km north of Stonehenge.

@@ -25,7 +25,7 @@ tags:
 - Sarsen
 ---
 
-In this article I paint a general picture of the Avebury Stone Circle.
+<span style="color: blue;">In this article I paint a general picture of the Avebury Stone Circle.</span>
 
 # First meeting.
 Avebury is a village in Great Britain in the English county of Wiltshire. It is located 2 km north of the road from London to Bath. There are about 500 inhabitants. 

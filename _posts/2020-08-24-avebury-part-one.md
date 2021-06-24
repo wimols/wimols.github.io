@@ -25,7 +25,7 @@ tags:
 - Solstice
 ---
 
-I would like to explain my travelogue of my various trips to Avebury. These blog posts will consist of six parts. I hope you like it.
+<span style="color: blue;">I would like to explain my travelogue of my various trips to Avebury. These blog posts will consist of six parts. I hope you like it.</span>
 
 # An overview.
 We see today a battered monument in which man lives. We are lucky to be able to touch the stones, something that is virtually forbidden in Stonehenge. The National Trust manages the stones:

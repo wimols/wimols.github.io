@@ -25,7 +25,7 @@ tags:
 - Ditch
 ---
 
-In this section we go into more detail about the Avebury Stone Circle.
+<span style="color: blue;">In this section we go into more detail about the Avebury Stone Circle.</span>
 
 # The Avebury Stone Circle.
 Around the stone circle lies a nearly 10 m deep ditch and beyond it a nearly 10 m high earthen shore. Excavations have shown that 15 m was a reality for both of them so that one can speak about 30 m of height difference. What that wall was meant for is not really clear, but since it is on the outside, defense seems unlikely. Shore and ditch were most likely first laid out and the rest followed in phases. Bones were used to loosen the ground and so used the shoulder blade of a deer as a shovel. Shore and ditch are interrupted in four places (the four corners of the wind) and thus mark entrances and exits. Later on, there will be two access stones each. Everywhere excavation has shown that this was the original design. It should be noted that due to the presence of the lime in the subsoil, both the ditch and the shore came across snow white, a striking caress for the eye. The village of Avebury is in the middle of it and modern roads are currently running through it. The church and the abbey building/museum are located just outside the Henge.
