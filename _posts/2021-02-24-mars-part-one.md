@@ -6,6 +6,13 @@ header:
 published: true
 tags:
 - Mars
+- Perseverance
+- Ingenuity
+- Artemis
+- Curiosity
+- Spirit
+- Opportunity
+- Robot
 ---
 
 <span style="color: orange;">Mars will be in the spotlight in February 2021. When this article appears, a new rover has landed on the red planet. The robot said: "Hello, world. My first look at my forever home."</span>

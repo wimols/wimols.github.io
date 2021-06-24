@@ -6,6 +6,13 @@ header:
 published: true
 tags:
 - Mars
+- Perseverance
+- Ingenuity
+- Artemis
+- Curiosity
+- Spirit
+- Opportunity
+- Robot
 ---
 
 <span style="color: orange;">Everyone is eagerly awaiting when Perseverance will come up with proofs of past life on Mars. Allow me to anticipate it for a moment.</span> 

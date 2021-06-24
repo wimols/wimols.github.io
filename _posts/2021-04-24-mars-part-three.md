@@ -6,13 +6,20 @@ header:
 published: true
 tags:
 - Mars
+- Perseverance
+- Ingenuity
+- Artemis
+- Curiosity
+- Spirit
+- Opportunity
+- Robot
 ---
 
 <span style="color: orange;">We must not lose sight of reality, it is an extremely difficult task.</span>
 
 # Some hard facts.
 
-Note that in the title Mars Part 2/4 I talk about a <span style="color: orange;">fantasized prediction</span>:
+Note that in the title Mars Part 2/4 I talk about a <span style="color: orange;">fantasized prediction</span>.
 
 The <span style="color: orange;">fantasy</span> is in many things and I am certainly getting ahead of myself. In reality, the Perseverance doesn't have a real laboratory on board, but some experiments can be done. So he has to leave the samples taken somewhere safe so that it can possibly be picked up by future Mars missions and brought back to our Earth for final research. With that, anything can start to fall apart like a house of cards. For the lovers I like to give some real figures/facts:
 * Perseverance must <u>prepare</u> for a human expedition:

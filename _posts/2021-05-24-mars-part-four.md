@@ -6,6 +6,13 @@ header:
 published: true
 tags:
 - Mars
+- Perseverance
+- Ingenuity
+- Artemis
+- Curiosity
+- Spirit
+- Opportunity
+- Robot
 ---
 
 <span style="color: orange;">Mars is smaller and further from the sun, what can we imagine and what can the red planet mean for humanity?</span>
