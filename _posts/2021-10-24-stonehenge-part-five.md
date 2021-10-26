@@ -3,7 +3,7 @@ title: Stonehenge Part 5/8 - People.
 header:
   image: "/images/Stony deel5.jpg"
   caption: Photo from [**English Heritage**](https://www.english-heritage.org.uk)
-published: false
+published: true
 tags:
 - Stonehenge
 - Neolithic
