@@ -3,7 +3,7 @@ title: Stonehenge Part 7/8 - Overall picture.
 header:
   image: "/images/Stony deel7.jpg"
   caption: Photo from [**English Heritage**](https://www.english-heritage.org.uk)
-published: false
+published: true
 tags:
 - Stonehenge
 - Neolithic
