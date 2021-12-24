@@ -1,5 +1,5 @@
 ---
-title: Stonehenge Part 4/8 - Fuctions.
+title: Stonehenge Part 4/8 - Functions.
 header:
   image: "/images/Stony deel4.jpg"
   caption: Photo from [**English Heritage**](https://www.english-heritage.org.uk)
