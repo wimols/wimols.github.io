@@ -21,7 +21,7 @@ tags:
 
 Everything started again in July 2020. Once <span style="color: orange;">every 26 months</span>, the Earth and Mars are in the right position to make such a space trip possible. They used an excellent Atlas V 541 rocket. And after barely 7 months, it was time.
 
-<div align="center"><img src="/images/perseverance.gif" alt="" width="250" height="250"></div>
+<div align="center"><img src="/images/Perseverance.gif" alt="" width="400" height="400"></div>
 
 <p style="text-align: center; font-size: 12pt;"><span style="color: orange;"><i>Animation on <a href="https://giphy.com/gifs/time-clock-infinity-3oxRmvU3GAJay6F60g">Giphy</a>.</i></span></p>
 
@@ -61,7 +61,7 @@ It's not an option to miss this train because then it's all over for humanity. A
 
 Back to the beginning of this article, back to Mars. We should not wait until we are effectively immortal. It is best for us to practice and explore that planet further already. In doing so, it is helpful if we know how things were done in the past. Learning from history rolls out the red carpet to the future. We need to find out if there was ever water on Mars, if it was ever warmer, if there was ever a beginning of life, if an atmosphere existed, if we can return to that state of the past through far-reaching interference in the household of the planet...Mars is thus back in the spotlight, a look up at the red planet is a look into the future.
 
-<div align="center"><img src="/images/artemis.jpg" alt="" width="" height=""></div>
+<div align="center"><img src="/images/Artemis.jpg" alt="" width="" height=""></div>
 
 <p style="text-align: center; font-size: 12pt;"><span style="color: orange;"><i>This photo can be seen on the Nasa website. The new emblem replaces the almost 50 year old emblem of Apollo.</i></span></p>
 

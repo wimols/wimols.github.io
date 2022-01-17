@@ -1,7 +1,7 @@
 ---
 title: Avebury Part 5/6 - The Silbury Hill, a separate story.
 header:
-  image: avebury5.jpg
+  image: images/Avebury5.jpg
   caption: Photo by Gobeirne on [**Wikipedia**]
 published: true
 tags:

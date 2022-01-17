@@ -1,18 +1,27 @@
 ---
-title: Life on earth, unique in the universe?
+title: Life Part 4/10 - Life on earth, unique in the universe?
 header:
-  image: "/images/aarde1.jpg"
-  caption: https://pixabay.com/nl/illustrations/aarde-planet-wereld-globe-ruimte-1617121/
+  image: "/images/Leven 4_10.jpg"
+  caption: https://pixabay.com/nl/illustrations/
 published: false
 tags:
-- Earth
+- Time travel
+- Prokaryotes
+- Eukaryotes
+- ADP/ATP
+- Exoplanet
+- Evolution
+- Miller
+- Endosymbiosis
+- Planet B
+- Origin of life
 ---
 
-The key question: "Are we alone in the universe?" still deserves an answer in my lifetime. I feel that a ballast would fall off my shoulders.
+The key question: "Are we alone in the universe?" still deserves an answer in my lifetime. I feel that a ballast would fall off my shoulders. To ease the pain, here is an overview.
 
 # Exoplanets.
 
-An exoplanet is a planet orbiting a different star from our sun. The first discovery dates back to <span style="color: blue;">1995</span>, the Swiss astronomers have received the Nobel Prize. They used little dips in the light that the other star was emitating every time a planet passed by her.  So we are talking about indirect observations that allow us to make all kinds of calculations to conclude that these eclipses are due to a passing planet.
+An exoplanet is a planet orbiting a different star from our sun. The first discovery dates back to <span style="color: red;">1995</span>, the Swiss astronomers have received the Nobel Prize. They used little dips in the light that the other star was emitating every time a planet passed by her.  So we are talking about indirect observations that allow us to make all kinds of calculations to conclude that these eclipses are due to a passing planet.
 
 If such an exoplanet meets certain conditions, it is ranked among the potentially habitable planets. For example, the size of that planet and the distance from its parent star play an important role. The hunt for habitable planets has been greatly stepped up in recent years and several thousand are already known.
 
@@ -20,7 +29,7 @@ Nevertheless, there is very little chance that we will ever take one step there.
 
 # Water.
 
-Life as we know it requires a lot more than just water, but water is <span style="color: blue;">necessary</span>.
+Life as we know it requires a lot more than just water, but water is <span style="color: red;">necessary</span>.
 
 Biosphere 2 ended in a fiasco in 1991. The oxygen levels dropped dramatically and the inhabitants were constantly hungry, as many plants died of water shortages and a deficient atmosphere. Re-enacting the Earth's ecosystem may never be able to be completely replicated and it shows how special the Earth really is.
 
@@ -28,7 +37,7 @@ Most evolutionary ideas let life begin with single-celled water. But how did it 
 
 # Stanley Miller.
 
-He conducted a well-known <span style="color: blue;">experiment</span>. He produced a mixture of methane, ammonia, hydrogen and dihydrogen. And then he chased electricity through it for a week to recreate the lightning that ravaged the early oceans.
+He conducted a well-known <span style="color: red;">experiment</span>. He produced a mixture of methane, ammonia, hydrogen and dihydrogen. And then he chased electricity through it for a week to recreate the lightning that ravaged the early oceans.
 
 After a week of bubbling, organic compounds had formed. The soup suddenly contained sugars, fats and amino acids:
 * <u>Sugars</u> contain energy.
@@ -37,9 +46,13 @@ After a week of bubbling, organic compounds had formed. The soup suddenly contai
 	
 The only thing missing are nuclear acids needed to build DNA.
 
+<div align="center"><img src="/images/Miller.jpg" alt="" width="" height=""></div>
+
+<p style="text-align: center; font-size: 12pt;"><span style="color: red;"><i>This illustration can be seen on the Wikipedia website. </i></span></p>
+
 # Carbon.
 
-All life on Earth is based on carbon. This allows millions of types of organic molecules to be <span style="color: blue;">combined</span>, such as proteins and amino acids. All these building materials or polymers consist of a handful of the same atoms: so carbon, but also hydrogen, oxygen, nitrogen, phosphorus and sulfur.
+All life on Earth is based on carbon. This allows millions of types of organic molecules to be <span style="color: red;">combined</span>, such as proteins and amino acids. All these building materials or polymers consist of a handful of the same atoms: so carbon, but also hydrogen, oxygen, nitrogen, phosphorus and sulfur.
 
 But those same carbon molecules are vulnerable on a proto-Earth. Yet somewhere on that early Earth there must have been a place where the conditions were such that the first life could arise from those essential components. So, from the very first moment, there must be mechanisms that protect the beginning of life.
 
@@ -47,7 +60,7 @@ In Australia, remnants of stromatolites have been found deep underground. These 
 
 # Silicon.
 
-On Earth, silicon is <span style="color: blue;">1000 times more</span> common than carbon. However, our biochemistry is entirely carbon-oriented. 
+On Earth, silicon is <span style="color: red;">1000 times more</span> common than carbon. However, our biochemistry is entirely carbon-oriented. 
 
 However, life is thought to be possible on the basis of silicon. But the number of molecules that can be made with them is very limited:
 - Silicon can only form <u>55 molecules</u> with hydrogen and some other atoms. A further combination of these 55 molecules into larger polymers is very difficult and moreover, they are usually insoluble in water.
@@ -59,7 +72,7 @@ And with that, we're back to carbon. Life elsewhere in the universe should logic
 
 # DNA.
 
-All life, including the simplest form of life, consists of information recorded in <span style="color: blue;">large molecules</span> such as the DNA:
+All life, including the simplest form of life, consists of information recorded in <span style="color: red;">large molecules</span> such as the DNA:
 - This fragile and complex DNA is necessary to <u>send</u> numerous processes into the cell. 
 - In addition, DNA has the <u>ability</u> to use that stored information and pass it on to posterity. This replication becomes very tangible when we look at reproduction (life).
 	
@@ -67,7 +80,7 @@ How such information and replication can arise by chance is unknown. There is no
 
 # Chemical miracle.
 
-The cell may be a <span style="color: blue;">simple object</span> in biology, but it is a miracle of complexity:
+The cell may be a <span style="color: red;">simple object</span> in biology, but it is a miracle of complexity:
 - She can <u>produce</u> a fully working copy of herself within twenty minutes, a modern computer can do a lot, but we are still very far from the point that it could copy itself.
 - Through her metabolism, she can <u>capture</u> energy to power all the necessary processes. In this metabolism, proteins play a crucial role. Proteins consist of amino acids. In addition, the question arises whether amino acids can arise spontaneously?
 - Essential and also very banal is the <u>membrane</u> that envelops the cell and thus holds things together. This membrane is super efficient in its simplicity. Each membrane consists of phospholipids. Again the question whether phospholipids can arise spontaneously?
@@ -76,11 +89,7 @@ The possibility of such a cell spontaneously forming by chance defies any realis
 
 # Goldilocks.
 
-A planet must have many special properties to make life possible. Everything has to be <span style="color: blue;">right</span> from start to finish or all the dominoes fall over.
-
-<iframe width="853" height="480" src="https://www.youtube.com/embed/j4KFxzhC92E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<p style="text-align: center; font-size: 12pt;"><span style="color: blue;"><i>The story Goldilocks is about three bears that live in a house in the woods. They made porridge, and while it cools down, they go for a walk. A girl, named Goldilocks because of her golden blonde hair, walks past their house, sees that it is empty and decides to go inside. She tries out the three chairs, breaking one, and chooses the best chair to sit on. She tries out the three plates of porridge and eats the plate that is best at temperature (not too hot, not too cold, just right). Then she tries out the beds. Only the best bed meets her requirements (not too hard, not too soft, just right) and in it she decides to go to sleep. When the bears come back, they're shocked. They discover that one of the plates is empty, a chair is broken and that someone is sleeping in one of their beds. Out of shame, Goldilocks flees the house never to come back.</i></span></p>
+A planet must have many special properties to make life possible. Everything has to be <span style="color: red;">right</span> from start to finish or all the dominoes fall over.
 
 Life on earth has taken an erratic course, coincidences became the norm. It's changed the planet. Then and now can't be turned around.
 

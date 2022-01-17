@@ -1,7 +1,7 @@
 ---
 title: Avebury Part 4/6 - The Site, other details.
 header:
-  image: avebury4.jpg
+  image: images/Avebury4.jpg
   caption: Photo by Gobeirne on [**Wikipedia**]
 published: true
 tags:

@@ -1,18 +1,27 @@
 ---
-title: The fable of time travel.
+title: Life Part 5/10 - The fable of time travel.
 header:
-  image: "/images/tijdreizen.jpg"
-  caption: https://pixabay.com/nl/photos/tijd-klok-horloges-tijd-van-2801596/
+  image: "/images/Leven 5_10.jpg"
+  caption: https://pixabay.com/nl/photos/
 published: false
 tags:
 - Time travel
+- Prokaryotes
+- Eukaryotes
+- ADP/ATP
+- Exoplanet
+- Evolution
+- Miller
+- Endosymbiosis
+- Planet B
+- Origin of life
 ---
 
 The late Stephen Hawking (1942°-2018+) came to the conclusion that time travel is possible, but for the time being only in theory. And yet it doesn't let anyone go.
 
 # First possibility: Stay in a static orbit around a black hole.
 
-According to general relativity, <span style="color: blue;">time stands still</span> on the edge of a black hole. Einstein's general theory of relativity states that the higher gravity, the slower time passes. Nowhere is gravity as great as in a black hole, even the light could not escape from it and therefore we see nothing there. 
+According to general relativity, <span style="color: red;">time stands still</span> on the edge of a black hole. Einstein's general theory of relativity states that the higher gravity, the slower time passes. Nowhere is gravity as great as in a black hole, even the light could not escape from it and therefore we see nothing there. 
 
 It's extremely complicated to circle close enough around a black hole, assuming we get there already. If you go over the edge, you're lost. Astronauts and spaceships would be pulled apart by it. The annual energy output of our sun is insufficient to escape back from that orbit. So what good is that?
 
@@ -20,7 +29,7 @@ We leave this possibility for what she is and don't go into it any more deeply.
 
 # Second option: Travel at 98% of the speed of light.
 
-Some scientists believe that sooner or later humanity will be able to build a "<span style="color: blue;">relativistic spaceship</span>." Einstein discovered that as objects accelerate in space, the speed at which time passes for them slows down. That effect is negligible in, for example, the aircraft we have today, but for spacecraft that fly at 98% of the speed of light, it is particularly strong. The cern particle accelerator in Switzerland has already shown measurable time lag. In this device, elementary charged particles are brought to high energy levels by accelerating them to speeds near the speed of light. This acceleration is done using strong electric fields. So for those elementary particles it seems to work, but what about humans?
+Some scientists believe that sooner or later humanity will be able to build a "<span style="color: red;">relativistic spaceship</span>." Einstein discovered that as objects accelerate in space, the speed at which time passes for them slows down. That effect is negligible in, for example, the aircraft we have today, but for spacecraft that fly at 98% of the speed of light, it is particularly strong. The cern particle accelerator in Switzerland has already shown measurable time lag. In this device, elementary charged particles are brought to high energy levels by accelerating them to speeds near the speed of light. This acceleration is done using strong electric fields. So for those elementary particles it seems to work, but what about humans?
 
 Such a spacecraft would have to fly about one billion kilometers per hour, which corresponds to 98% of the speed of light. It is estimated that it would take six years to reach that speed in a spaceship. Six miserable years when we will be exposed to enormous G-forces. Fighter pilots sometimes lose consciousness at large G-forces after only two minutes.
 
@@ -40,11 +49,11 @@ So basically this is a plan to save humanity from any destruction. If we want to
 
 <div align="center"><img src="/images/Tijdreizen.gif" alt="" width="250" height="250"></div>
 
-<p style="text-align: center; font-size: 12pt;"><span style="color: blue;"><i>Animation on <a href="https://giphy.com/gifs/time-clock-infinity-3oxRmvU3GAJay6F60g">Giphy</a>.</i></span></p>
+<p style="text-align: center; font-size: 12pt;"><span style="color: red;"><i>Animation on <a href="https://giphy.com/gifs/time-clock-infinity-3oxRmvU3GAJay6F60g">Giphy</a>.</i></span></p>
 
 # Problems remaining with time travel.
 
-There are <span style="color: blue;">unrealistic obstacles</span>. None of them have been solved, they are not even working on it:
+There are <span style="color: red;">unrealistic obstacles</span>. None of them have been solved, they are not even working on it:
 * Build the spaceship: how <u>big</u> should it be and how many people should be in it? Should we also provide a place for animals and plants? In this case, the image of a modern Ark of Noa emerges. 
 * Which <u>engine</u> and inexhaustible fuel should be used? Will we ever manage to mimic our sun and weigh a fusion of hydrogen atoms, that solves the problem of that inexhaustible fuel.
 * What do we do with those deadly <u>G-forces</u> that will last six years? Are huge pressure suits (which we are actually already using) going to solve that problem?
@@ -54,11 +63,11 @@ There are <span style="color: blue;">unrealistic obstacles</span>. None of them 
 
 <div align="center"><img src="/images/Tijdreizen bis.gif" alt="" width="250" height="250"></div>
 
-<p style="text-align: center; font-size: 12pt;"><span style="color: blue;"><i>Animation on  <a href="https://mondrian.mashable.com/uploads%252Fcard%252Fimage%252F763905%252Ff3e07421-4fe4-4225-b005-9d2318949dab.gif%252Ffull-fit-in__950x534.gif?signature=FkznMMuCZGRgN18R2r932C75Fz4=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com">Mashable</a>.</i></span></p>
+<p style="text-align: center; font-size: 12pt;"><span style="color: red;"><i>Animation on  <a href="https://mondrian.mashable.com/uploads%252Fcard%252Fimage%252F763905%252Ff3e07421-4fe4-4225-b005-9d2318949dab.gif%252Ffull-fit-in__950x534.gif?signature=FkznMMuCZGRgN18R2r932C75Fz4=&source=https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com">Mashable</a>.</i></span></p>
 
 # What about time travel in the past?
 
-As travel into the future might already be, the reverse travel to the past is not possible. Travelling into the past would mean flot hailing a fundamental rule of "<span style="color: blue;">cause for effect</span>." In our expanding universe, time is an irreversible vector with a sense of the future and therefore away from the past.
+As travel into the future might already be, the reverse travel to the past is not possible. Travelling into the past would mean flot hailing a fundamental rule of "<span style="color: red;">cause for effect</span>." In our expanding universe, time is an irreversible vector with a sense of the future and therefore away from the past.
                                                                                                           
 The infrared shift always indicates a expanding universe. So in a distant past, there must have been the Big Bang, the universe came from a very small point. According to the late Stephen Hawking, that's the singularity. A one-off exceptional state, from then on all physical laws began to apply. It is a time with an infinitesimally small volume and an infinitely large density. Spacetime is so curved here that space and time actually cease to exist. The processes that put an end to that singularity and in fact start the laws of nature are not yet known.
 
