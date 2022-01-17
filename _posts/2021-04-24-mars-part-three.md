@@ -1,7 +1,7 @@
 ---
 title: Mars Part 3/4 - An unexpected final word.
 header:
-  image: "/images/perseverance.jpg"
+  image: "/images/Perseverance.jpg"
   caption: Photo from [**Nasa**](https://mars.nasa.gov/mars2020/)
 published: true
 tags:
