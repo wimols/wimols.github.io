@@ -46,7 +46,7 @@ Of all the planets, the climate on Mars is most similar to that of Earth. The su
 
 The atmosphere around Mars is very tenuous. The air pressure on Mars is only 1% of the air pressure on Earth. The composition is very similar to the primordial atmosphere on Earth. There is mainly carbon dioxide (95%), supplemented by nitrogen (3%), the noble gas argon (1.6%) and also extremely small traces of oxygen and methane. This high concentration of carbon dioxide is a challenge for scientists to extract oxygen from it. However, there is constantly a lot of dust in the air. Those tiny ferrous particles color the skies toward orange.
 
-<div align="center"><img src="/images/greening.jpg" alt="" width="" height=""></div>
+<div align="center"><img src="/images/Greening.jpg" alt="" width="" height=""></div>
 
 <p style="text-align: center; font-size: 12pt;"><span style="color: orange;"><i>This photo can be seen on the Nasa website. With current technology it is impossible to complete this process.</i></span></p>
 

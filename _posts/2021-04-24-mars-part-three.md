@@ -29,7 +29,8 @@ The <span style="color: orange;">fantasy</span> is in many things and I am certa
 	* He's testing whether humans can go to Mars. With its MOXIE, <u>oxygen</u> can be produced from the carbon dioxide in the thin atmosphere. Its predecessors have already mapped potentially liveable environments.
 	* It has 2 <u>microphones</u> on board which is always handy. One observes the environment and the other records all the sounds during the work.
 	* It has a very mobile <u>robotic arm</u> of 2 m length. At the end there is a drill that can drill holes in the rocks and collect samples. It is hoped that this will fill 43 tubes, which will then be left in a strategic location where they can be fully automated later. A Mars mission with a return flight to Earth (without humans) is planned in 2030.
-<div align="center"><img src="/images/ingenuity.jpg" alt="" width="" height=""></div>
+
+<div align="center"><img src="/images/Ingenuity.jpg" alt="" width="" height=""></div>
 
 <p style="text-align: center; font-size: 12pt;"><span style="color: orange;"><i>This photo can be seen on the Nasa website. The Ingenuity helicopter drone will deploy from the Perseverance rover and conduct a series of test flights, paving the way for future aircraft to fly on Mars.</i></span></p>
 
