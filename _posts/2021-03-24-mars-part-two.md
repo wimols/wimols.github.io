@@ -15,7 +15,7 @@ tags:
 - Robot
 ---
 
-<span style="color: orange;">Everyone is eagerly awaiting when Perseverance will come up with proofs of past life on Mars. Allow me to anticipate it for a moment.</span> 
+Everyone is eagerly awaiting when Perseverance will come up with proofs of past life on Mars. Allow me to anticipate it for a moment. 
 
 In a first part I will explain how one got to the evidence of ancient life on Mars. Then I'll go into what evidence exactly that is. And then I tell you that it will stick to that evidence, in other words one will never, for example, find a skeleton of a mammoth on Mars.
 
@@ -23,25 +23,23 @@ In a first part I will explain how one got to the evidence of ancient life on Ma
 
 Since February 2021, there is a new Mars robot action on that planet. This one bears the name <span style="color: orange;">Perseverance</span>, which means the holder or the tenacious. It's a big robot, 1 ton heavy and the size of a vehicle. It is also much more powerful than its predecessors the Spirit, Opportunity of Curiosity. They could barely travel 200 m in one day, he can rather travel 2 km per day. He does that on those distinctive 6 wheels that hopefully evoke the right image.
 
-NASA dropped it on a flat piece of terrain about 45 km by 50 km. Actually a circular area with hills and mountains on the edge. From the height, it's just clear that it's an impact crater. It is estimated at 3.5 billion years old. It is quite common that Mars was frequently affected by meteorite impacts at the time. The crater is not particularly large, there are still so and some are much larger. The name of the crater is Jazero or Jazera, depending on the language.
+NASA dropped it on a flat piece of terrain about 45 km by 50 km. Actually a circular area with hills and mountains on the edge. From the height, it's just clear that it's an <span style="color: orange;">impact crater</span>. It is estimated at 3.5 billion years old. It is quite common that Mars was frequently affected by meteorite impacts at the time. The crater is not particularly large, there are still so and some are much larger. The name of the crater is Jazero or Jazera, depending on the language.
 
-Why was this crater chosen? However, it is believed that it was once full of water. On the one hand there are deep gullies in the hills. These are parched riverbeds that once supplied the water. The crater is full and a large lake is created, rather shallow, say a few tens of meters. And on the other hand, deep gullies can once again be seen, including dried-out riverbeds that drain the water to the lower reaches of the planet.
+Why was this crater chosen? However, it is believed that it was once <span style="color: orange;">full of water</span>. On the one hand there are deep gullies in the hills. These are parched riverbeds that once supplied the water. The crater is full and a large lake is created, rather shallow, say a few tens of meters. And on the other hand, deep gullies can once again be seen, including dried-out riverbeds that drain the water to the lower reaches of the planet.
 
-It is estimated that water has been present for about one billion years. Two billion years ago, it disappeared quite suddenly, dried up, evaporated. So the crater has been dry all along, all that has been added is dust and sand (on Mars there are heavy dust storms covering everything, something that the former Mars robots have fallen under). It is estimated that sand layer on about 20 cm to 30 cm. So it is certainly not in this layer that one should look for life because that dust and sand have never been in contact with water.
+It is estimated that water has been present for about <span style="color: orange;">one billion</span> years. Two billion years ago, it disappeared quite suddenly, dried up, evaporated. So the crater has been dry all along, all that has been added is dust and sand (on Mars there are heavy dust storms covering everything, something that the former Mars robots have fallen under). It is estimated that sand layer on about 20 cm to 30 cm. So it is certainly not in this layer that one should look for life because that dust and sand have never been in contact with water.
 
-What should be done now. The robot can take a soil sample with one arm. The first 20 cm to 30 cm should be ignored. The target is a sample of that lake's original bottom, the slip that has actually been in contact with water. But the rover is equipped with a drill that can take soil samples to a depth of 80 cm.
+What should be done now. The robot can take a <span style="color: orange;">soil sample</span> with one arm. The first 20 cm to 30 cm should be ignored. The target is a sample of that lake's original bottom, the slip that has actually been in contact with water. But the rover is equipped with a drill that can take soil samples to a depth of 80 cm.
 
-That ground steel is then examined on the spot in the supplied laboratory. One can beam, heat and expose the steel to solvents and the results are transmitted to the earth. 
+That ground steel is then <span style="color: orange;">examined</span> on the spot in the supplied laboratory. One can beam, heat and expose the steel to solvents and the results are transmitted to the earth. 
 
-So that's how they got that evidence of early life on Mars.
-
-I'll add:
-- To take <u>1 sample is about 1 week</u>. Travel a distance, position the robot, complete the steel name, investigate, forward and complete.
-- There have already been <u>12 decreases</u>. Of these, 2 failed because the drill could not enter the ground as there happened to be a rock in the road. The drill was having difficulty getting into the rock bottom and they didn't want to force anything and they didn't want to damage anything.
-- There are 10 lucky attempts left and of those 10, <u>9 are positive</u>. This means that traces of past life have already been found in 9 places. So we can speak of an overwhelming success.
-- So the mission is <u>successful</u> and voices go on to send the robot to another place to do its job again. Here there is a problem, the robot can not possibly drive out of the crater on its own, think of that mountainous rim. So he's doomed to stay there for the time being.
-- I can already <u>predict</u> that he will also find traces of life in other places in that crater. And that's what we're going to have to do.
-- In total, the robot is equipped with raw materials to make <u>50 steel purchases</u>. This corresponds to one year. The lifespan of the robot is calculated at 2 years, of course one secretly hopes for a longer life course but that is difficult to predict (even though its predecessors have already proven that).
+So that's how they got that evidence of <span style="color: orange;">early life</span> on Mars. I'll add:
+* To take <u>1 sample is about 1 week</u>. Travel a distance, position the robot, complete the steel name, investigate, forward and complete.
+* There have already been <u>12 decreases</u>. Of these, 2 failed because the drill could not enter the ground as there happened to be a rock in the road. The drill was having difficulty getting into the rock bottom and they didn't want to force anything and they didn't want to damage anything.
+* There are 10 lucky attempts left and of those 10, <u>9 are positive</u>. This means that traces of past life have already been found in 9 places. So we can speak of an overwhelming success.
+* So the mission is <u>successful</u> and voices go on to send the robot to another place to do its job again. Here there is a problem, the robot can not possibly drive out of the crater on its own, think of that mountainous rim. So he's doomed to stay there for the time being.
+* I can already <u>predict</u> that he will also find traces of life in other places in that crater. And that's what we're going to have to do.
+* In total, the robot is equipped with raw materials to make <u>50 steel purchases</u>. This corresponds to one year. The lifespan of the robot is calculated at 2 years, of course one secretly hopes for a longer life course but that is difficult to predict (even though its predecessors have already proven that).
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/6qA9iaAUo8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

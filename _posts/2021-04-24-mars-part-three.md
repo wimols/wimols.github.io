@@ -1,5 +1,5 @@
 ---
-title: Mars Part 3/4 - An unexpected final word.
+title: Mars Part 3/4 - An unexpected and early final word.
 header:
   image: "/images/Perseverance.jpg"
   caption: Photo from [**Nasa**](https://mars.nasa.gov/mars2020/)
@@ -15,7 +15,7 @@ tags:
 - Robot
 ---
 
-<span style="color: orange;">We must not lose sight of reality, it is an extremely difficult task.</span>
+We must not lose sight of reality, it is an extremely difficult task.
 
 # Some hard facts.
 
