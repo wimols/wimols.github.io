@@ -1,7 +1,7 @@
 ---
 title: Mars Part 4/4 - The significance of Mars.
 header:
-  image: "/images/habitat.jpg"
+  image: "/images/Habitat.jpg"
   caption: Photo from [**Scientias.nl**](https://www.scientias.nl/)
 published: true
 tags:

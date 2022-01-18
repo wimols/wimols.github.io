@@ -1,7 +1,7 @@
 ---
 title: Mars Part 1/4 - Interest in Mars.
 header:
-  image: "/images/landing Mars.jpg"
+  image: "/images/Landing Mars.jpg"
   caption: Photo from [**Nasa**](https://mars.nasa.gov/mars2020/)
 published: true
 tags:
