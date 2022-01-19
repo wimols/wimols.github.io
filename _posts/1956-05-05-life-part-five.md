@@ -23,26 +23,26 @@ The late Stephen Hawking (1942°-2018+) came to the conclusion that time travel 
 
 According to general relativity, <span style="color: red;">time stands still</span> on the edge of a black hole. Einstein's general theory of relativity states that the higher gravity, the slower time passes. Nowhere is gravity as great as in a black hole, even the light could not escape from it and therefore we see nothing there. 
 
-It's extremely complicated to circle close enough around a black hole, assuming we get there already. If you go over the edge, you're lost. Astronauts and spaceships would be pulled apart by it. The annual energy output of our sun is insufficient to escape back from that orbit. So what good is that?
+It's extremely <span style="color: red;">complicated</span> to circle close enough around a black hole, assuming we get there already. If you go over the edge, you're lost. Astronauts and spaceships would be pulled apart by it. The annual energy output of our sun is insufficient to escape back from that orbit. So what good is that?
 
-We leave this possibility for what she is and don't go into it any more deeply.
+We <span style="color: red;">leave</span> this possibility for what she is and don't go into it any more deeply.
 
 # Second option: Travel at 98% of the speed of light.
 
 Some scientists believe that sooner or later humanity will be able to build a "<span style="color: red;">relativistic spaceship</span>." Einstein discovered that as objects accelerate in space, the speed at which time passes for them slows down. That effect is negligible in, for example, the aircraft we have today, but for spacecraft that fly at 98% of the speed of light, it is particularly strong. The cern particle accelerator in Switzerland has already shown measurable time lag. In this device, elementary charged particles are brought to high energy levels by accelerating them to speeds near the speed of light. This acceleration is done using strong electric fields. So for those elementary particles it seems to work, but what about humans?
 
-Such a spacecraft would have to fly about one billion kilometers per hour, which corresponds to 98% of the speed of light. It is estimated that it would take six years to reach that speed in a spaceship. Six miserable years when we will be exposed to enormous G-forces. Fighter pilots sometimes lose consciousness at large G-forces after only two minutes.
+Such a spacecraft would have to fly about one billion kilometers per hour, which corresponds to <span style="color: red;">98%</span> of the speed of light. It is estimated that it would take six years to reach that speed in a spaceship. Six miserable years when we will be exposed to enormous G-forces. Fighter pilots sometimes lose consciousness at large G-forces after only two minutes.
 
-During those six years, everything happens:
+During those <span style="color: red;">six</span> years, everything happens:
 * After two years, the ship would fly at <u>half the speed</u> of light and be far beyond our solar system. 
-* After another two years it flies then to <u>90%</u> of the light speed.    
+* After another two years it flies then to <u>90%</u> of the light speed.   
 * Another two years later it has accelerated to <u>98%</u> of the speed of light. At that point, every day aboard that ship corresponds to a year on Earth. 
 
-The astronauts would have seen a tiny piece of our Milky Way in 80 years. At that time, 29 200 years passed on Earth. Approximately, this corresponds to the total length of time that modern Homo sapiens sapiens orbit this globe. During that time has now passed, it could have already become extinct or evolved further into another species.
+The astronauts would have seen a <span style="color: red;">tiny</span> piece of our Milky Way in 80 years. At that time, 29 200 years passed on Earth. Approximately, this corresponds to the total length of time that modern Homo sapiens sapiens orbit this globe. During that time has now passed, it could have already become extinct or evolved further into another species.
 
-Of course, it will take our space travelers another 80 years to return. In that case (after 160 years in hibernation) about 60 000 years passed on Earth. This is the time to be told to colonize the earth again if necessary. The disastrous consequences of a possible asteroid impact would have all but disappeared and our sun is still young enough to enjoy it for thousands of years to come. In fact, this is the only reason why this article is included in this series!
+Of course, it will take our space travelers another 80 years to <span style="color: red;">return</span>. In that case (after 160 years in hibernation) about 60 000 years passed on Earth. This is the time to be told to colonize the earth again if necessary. The disastrous consequences of a possible asteroid impact would have all but disappeared and our sun is still young enough to enjoy it for thousands of years to come. In fact, this is the only reason why this article is included in this series!
 
-So basically this is a plan to save humanity from any destruction. If we want to prepare for the bad news that an asteroid is on its way to Earth to hit it in full, then there may be the following possibilities:
+So basically this is a <span style="color: red;">plan</span> to save humanity from any destruction. If we want to prepare for the bad news that an asteroid is on its way to Earth to hit it in full, then there may be the following possibilities:
 - Send a <u>missile</u> with a few warheads and shoot the asteroid to shreds. This seems to be the most viable solution at the moment. If we get enough time for the impact, i'm sure it's worth a try.
 - <u>Colonization</u> on Mars started, it still seems like distant future music but this is already being done. I certainly wouldn't wait for the time pressure to become so great that too many things could go wrong.
 - And then there is <u>time travel</u>, perhaps the most unrealistic solution that may never exceed the paper version.
@@ -69,6 +69,6 @@ There are <span style="color: red;">unrealistic obstacles</span>. None of them h
 
 As travel into the future might already be, the reverse travel to the past is not possible. Travelling into the past would mean flot hailing a fundamental rule of "<span style="color: red;">cause for effect</span>." In our expanding universe, time is an irreversible vector with a sense of the future and therefore away from the past.
                                                                                                           
-The infrared shift always indicates a expanding universe. So in a distant past, there must have been the Big Bang, the universe came from a very small point. According to the late Stephen Hawking, that's the singularity. A one-off exceptional state, from then on all physical laws began to apply. It is a time with an infinitesimally small volume and an infinitely large density. Spacetime is so curved here that space and time actually cease to exist. The processes that put an end to that singularity and in fact start the laws of nature are not yet known.
+The infrared shift always indicates a <span style="color: red;">expanding</span> universe. So in a distant past, there must have been the Big Bang, the universe came from a very small point. According to the late Stephen Hawking, that's the singularity. A one-off exceptional state, from then on all physical laws began to apply. It is a time with an infinitesimally small volume and an infinitely large density. Spacetime is so curved here that space and time actually cease to exist. The processes that put an end to that singularity and in fact start the laws of nature are not yet known.
 
-At this point of singularity, we must seek our Creator.
+At this point of <span style="color: red;">singularity</span>, we must seek our Creator.

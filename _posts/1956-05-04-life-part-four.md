@@ -23,28 +23,28 @@ The key question: "Are we alone in the universe?" still deserves an answer in my
 
 An exoplanet is a planet orbiting a different star from our sun. The first discovery dates back to <span style="color: red;">1995</span>, the Swiss astronomers have received the Nobel Prize. They used little dips in the light that the other star was emitating every time a planet passed by her.  So we are talking about indirect observations that allow us to make all kinds of calculations to conclude that these eclipses are due to a passing planet.
 
-If such an exoplanet meets certain conditions, it is ranked among the potentially habitable planets. For example, the size of that planet and the distance from its parent star play an important role. The hunt for habitable planets has been greatly stepped up in recent years and several thousand are already known.
+If such an exoplanet meets certain conditions, it is ranked among the potentially habitable planets. For example, the size of that planet and the distance from its parent star play an <span style="color: red;">important</span> role. The hunt for habitable planets has been greatly stepped up in recent years and several thousand are already known.
 
-Nevertheless, there is very little chance that we will ever take one step there. The biggest obstacle is the enormous distance that is several decades light years. 
+Nevertheless, there is very little chance that we will ever take one step there. The biggest <span style="color: red;">obstacle</span> is the enormous distance that is several decades light years. 
 
 # Water.
 
 Life as we know it requires a lot more than just water, but water is <span style="color: red;">necessary</span>.
 
-Biosphere 2 ended in a fiasco in 1991. The oxygen levels dropped dramatically and the inhabitants were constantly hungry, as many plants died of water shortages and a deficient atmosphere. Re-enacting the Earth's ecosystem may never be able to be completely replicated and it shows how special the Earth really is.
+<span style="color: red;">Biosphere 2</span> ended in a fiasco in 1991. The oxygen levels dropped dramatically and the inhabitants were constantly hungry, as many plants died of water shortages and a deficient atmosphere. Re-enacting the Earth's ecosystem may never be able to be completely replicated and it shows how special the Earth really is.
 
-Most evolutionary ideas let life begin with single-celled water. But how did it come about?
+Most evolutionary ideas let life begin with <span style="color: red;">single-celled</span> water. But how did it come about?
 
 # Stanley Miller.
 
 He conducted a well-known <span style="color: red;">experiment</span>. He produced a mixture of methane, ammonia, hydrogen and dihydrogen. And then he chased electricity through it for a week to recreate the lightning that ravaged the early oceans.
 
-After a week of bubbling, organic compounds had formed. The soup suddenly contained sugars, fats and amino acids:
+After a week of bubbling, organic compounds had <span style="color: red;">formed</span>. The soup suddenly contained sugars, fats and amino acids:
 * <u>Sugars</u> contain energy.
 * <u>Fats</u> are needed to make membranes.
 * <u>Amino acids</u> form proteins and are the basic building materials for life.
 	
-The only thing missing are nuclear acids needed to build DNA.
+The only thing missing are nuclear acids needed to build <span style="color: red;">DNA</span>.
 
 <div align="center"><img src="/images/Miller.jpg" alt="" width="" height=""></div>
 
@@ -54,21 +54,21 @@ The only thing missing are nuclear acids needed to build DNA.
 
 All life on Earth is based on carbon. This allows millions of types of organic molecules to be <span style="color: red;">combined</span>, such as proteins and amino acids. All these building materials or polymers consist of a handful of the same atoms: so carbon, but also hydrogen, oxygen, nitrogen, phosphorus and sulfur.
 
-But those same carbon molecules are vulnerable on a proto-Earth. Yet somewhere on that early Earth there must have been a place where the conditions were such that the first life could arise from those essential components. So, from the very first moment, there must be mechanisms that protect the beginning of life.
+But those same carbon molecules are vulnerable on a proto-Earth. Yet somewhere on that early Earth there must have been a place where the conditions were such that the first life could arise from those essential components. So, from the very first moment, there must be <span style="color: red;">mechanisms</span> that protect the beginning of life.
 
-In Australia, remnants of stromatolites have been found deep underground. These are clumping carbon-nuggling microorganisms from 3.5 billion years old. For now, those are the germs of life. Apparently, these organisms seemed to be saving themselves with the energy from the earth's interior.
+In Australia, remnants of <span style="color: red;">stromatolites</span> have been found deep underground. These are clumping carbon-nuggling microorganisms from 3.5 billion years old. For now, those are the germs of life. Apparently, these organisms seemed to be saving themselves with the energy from the earth's interior.
 
 # Silicon.
 
 On Earth, silicon is <span style="color: red;">1000 times more</span> common than carbon. However, our biochemistry is entirely carbon-oriented. 
 
-However, life is thought to be possible on the basis of silicon. But the number of molecules that can be made with them is very limited:
+However, life is thought to be possible on the basis of silicon. But the number of molecules that can be made with them is very <span style="color: red;">limited</span>:
 - Silicon can only form <u>55 molecules</u> with hydrogen and some other atoms. A further combination of these 55 molecules into larger polymers is very difficult and moreover, they are usually insoluble in water.
 - This is not the case with the <u>29 000 possible molecules</u> that are based on carbon. Moreover, it is possible to combine easily with these 29 000 molecules and are practically all soluble in water. So this is a serious threshold to keep silicon from being the backbone of life.
 
-Silicon is in the Table of Mendelyev in the same column as carbon. It is heavier and less active than carbon even though there are as many binding places. At higher temperatures, silicon would behave more stablely than carbon. This could then give an advantage in some places in the Milky Way. The fact remains that a silicon-based life is not compatible with our earthly life. We might not even be able to detect it. 
+Silicon is in the Table of Mendelyev in the same <span style="color: red;">column</span> as carbon. It is heavier and less active than carbon even though there are as many binding places. At higher temperatures, silicon would behave more stablely than carbon. This could then give an advantage in some places in the Milky Way. The fact remains that a silicon-based life is not compatible with our earthly life. We might not even be able to detect it. 
 		
-And with that, we're back to carbon. Life elsewhere in the universe should logically also be based on carbon compounds. That's what astrobiologists are still looking for. 
+And with that, we're back to <span style="color: red;">carbon</span>. Life elsewhere in the universe should logically also be based on carbon compounds. That's what astrobiologists are still looking for. 
 
 # DNA.
 
@@ -76,7 +76,7 @@ All life, including the simplest form of life, consists of information recorded 
 - This fragile and complex DNA is necessary to <u>send</u> numerous processes into the cell. 
 - In addition, DNA has the <u>ability</u> to use that stored information and pass it on to posterity. This replication becomes very tangible when we look at reproduction (life).
 	
-How such information and replication can arise by chance is unknown. There is no known law of physics that can produce information from nothing.
+How such information and replication can arise by chance is <span style="color: red;">unknown</span>. There is no known law of physics that can produce information from nothing.
 
 # Chemical miracle.
 
@@ -85,15 +85,15 @@ The cell may be a <span style="color: red;">simple object</span> in biology, but
 - Through her metabolism, she can <u>capture</u> energy to power all the necessary processes. In this metabolism, proteins play a crucial role. Proteins consist of amino acids. In addition, the question arises whether amino acids can arise spontaneously?
 - Essential and also very banal is the <u>membrane</u> that envelops the cell and thus holds things together. This membrane is super efficient in its simplicity. Each membrane consists of phospholipids. Again the question whether phospholipids can arise spontaneously?
 	
-The possibility of such a cell spontaneously forming by chance defies any realistic probability. It is therefore an extremely difficult scientific problem.
+The possibility of such a cell spontaneously forming by chance <span style="color: red;">defies</span> any realistic probability. It is therefore an extremely difficult scientific problem.
 
 # Goldilocks.
 
 A planet must have many special properties to make life possible. Everything has to be <span style="color: red;">right</span> from start to finish or all the dominoes fall over.
 
-Life on earth has taken an erratic course, coincidences became the norm. It's changed the planet. Then and now can't be turned around.
+Life on earth has taken an erratic course, coincidences became the norm. It's <span style="color: red;">changed</span> the planet. Then and now can't be turned around.
 
-Covered: atmosphere, magnetic field, rotation, sun, moon, minerals:
+<span style="color: red;">Covered</span>: atmosphere, magnetic field, rotation, sun, moon, minerals:
 - Atmosphere:
 	- There must be sufficient <u>attraction</u> to maintain an atmosphere. 
 	- But the atmosphere should not cause such strong pressure that it <u>crushes</u> everything on the planet.
