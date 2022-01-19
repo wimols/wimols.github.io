@@ -1,7 +1,7 @@
 ---
 title: Life Part 1/10 - Have we been lucky with our earth?
 header:
-  image: "/images/Leven 1_10.jpg"
+  image: "/images/Leven1.jpg"
   caption: https://pixabay.com/nl/photos/
 published: false
 tags:

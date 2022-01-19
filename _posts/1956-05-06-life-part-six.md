@@ -1,7 +1,7 @@
 ---
 title: Life Part 6/10 - The fate of our Earth.
 header:
-  image: "/images/Leven 6_10.jpg"
+  image: "/images/Leven6.jpg"
   caption: https://pixabay.com/nl/photos/
 published: false
 tags:

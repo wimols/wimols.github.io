@@ -1,8 +1,8 @@
 ---
-title: Update Mars Part 4/4 - The story of energy supply.
+title: Update Mars Part 4/4 - The moon Enceladus is also quite interesting.
 header:
-  image: "/images/Leven 10_10.jpg"
-  caption: https://pixabay.com/nl/photos/
+  image: "/images/Update4.jpg"
+  caption: https://www.nasa.gov/
 published: false
 tags:
 - Time travel
@@ -17,9 +17,9 @@ tags:
 - Origin of life
 ---
 
-Life is an active process. From the very beginning, energy was needed to make molecules and a little later to allow cells to multiply. Life has been creative with the problem of energy supply.
+Enceladus is one of the 82 moons of Saturn. Here, too, geysers have been observed and science is eager to investigate them further.
 
-# Important processes.
+# Here is Enceladus.
 
 At least <span style="color: red;">three important steps</span> have contributed to the energy supply of life. Glycolysis, photosynthesis and aerobic energy production.
 

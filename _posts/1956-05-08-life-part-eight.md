@@ -1,7 +1,7 @@
 ---
 title: Life Part 8/10 - The very beginning.
 header:
-  image: "/images/Leven 8_10.jpg"
+  image: "/images/Leven8.jpg"
   caption: https://pixabay.com/nl/photos/
 published: false
 tags:

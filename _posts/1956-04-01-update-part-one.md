@@ -1,8 +1,8 @@
 ---
-title: Update Mars Part 1/4 - The story of energy supply.
+title: Update Mars Part 1/4 - What is the status of the experiments on Mars?
 header:
-  image: "/images/Leven 10_10.jpg"
-  caption: https://pixabay.com/nl/photos/
+  image: "/images/Update1.jpg"
+  caption: https://www.nasa.gov/
 published: false
 tags:
 - Time travel
@@ -17,9 +17,9 @@ tags:
 - Origin of life
 ---
 
-Life is an active process. From the very beginning, energy was needed to make molecules and a little later to allow cells to multiply. Life has been creative with the problem of energy supply.
+We are now a year further. A lot has already happened there on Mars. An update is required, we will write at the end of December 2021.
 
-# Important processes.
+# The robot Perseverance.
 
 At least <span style="color: red;">three important steps</span> have contributed to the energy supply of life. Glycolysis, photosynthesis and aerobic energy production.
 

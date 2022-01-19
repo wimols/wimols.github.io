@@ -1,7 +1,7 @@
 ---
 title: Life Part 10/10 - The story of energy supply.
 header:
-  image: "/images/Leven 10_10.jpg"
+  image: "/images/Leven10.jpg"
   caption: https://pixabay.com/nl/photos/
 published: false
 tags:

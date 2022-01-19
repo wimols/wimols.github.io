@@ -1,7 +1,7 @@
 ---
 title: Life Part 9/10 - Pivotal points in the evolution of life.
 header:
-  image: "/images/Leven 9_10.jpg"
+  image: "/images/Leven9.jpg"
   caption: https://pixabay.com/nl/photos/
 published: false
 tags:

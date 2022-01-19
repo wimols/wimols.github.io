@@ -1,7 +1,7 @@
 ---
 title: Life Part 5/10 - The fable of time travel.
 header:
-  image: "/images/Leven 5_10.jpg"
+  image: "/images/Leven5.jpg"
   caption: https://pixabay.com/nl/photos/
 published: false
 tags:

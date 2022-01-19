@@ -1,7 +1,7 @@
 ---
 title: Life Part 2/10 - Could our solar system have been better?
 header:
-  image: "/images/Leven 2_10.jpg"
+  image: "/images/Leven2.jpg"
   caption: https://pixabay.com/nl/photos/
 published: false
 tags:

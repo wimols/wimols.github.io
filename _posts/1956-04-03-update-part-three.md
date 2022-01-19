@@ -1,8 +1,8 @@
 ---
-title: Update Mars Part 3/4 - The story of energy supply.
+title: Update Mars Part 3/4 - The moon Europa is also quite interesting.
 header:
-  image: "/images/Leven 10_10.jpg"
-  caption: https://pixabay.com/nl/photos/
+  image: "/images/Update3.jpg"
+  caption: https://www.nasa.gov/
 published: false
 tags:
 - Time travel
@@ -17,9 +17,9 @@ tags:
 - Origin of life
 ---
 
-Life is an active process. From the very beginning, energy was needed to make molecules and a little later to allow cells to multiply. Life has been creative with the problem of energy supply.
+Europa is the smallest of Jupiter's Galilean moons. These are the four large moons of this gas giant. This moon also deserves our attention. A planet or a moon is just an earthly concept. Life could be possible on both of them.
 
-# Important processes.
+# Can life arise on a planet's moon?
 
 At least <span style="color: red;">three important steps</span> have contributed to the energy supply of life. Glycolysis, photosynthesis and aerobic energy production.
 
