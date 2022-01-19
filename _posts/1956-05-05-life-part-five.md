@@ -40,7 +40,7 @@ During those six years, everything happens:
 
 The astronauts would have seen a tiny piece of our Milky Way in 80 years. At that time, 29 200 years passed on Earth. Approximately, this corresponds to the total length of time that modern Homo sapiens sapiens orbit this globe. During that time has now passed, it could have already become extinct or evolved further into another species.
 
-Of course, it will take our space travelers another 80 years to return. In that case (after 160 years in hibernation) about 60 000 years passed on Earth. This is the time to be told to colonize the earth again if necessary. The disastrous consequences of a possible asteroid impact would have all but disappeared and our sun is still young enough to enjoy it for thousands of years to come. 
+Of course, it will take our space travelers another 80 years to return. In that case (after 160 years in hibernation) about 60 000 years passed on Earth. This is the time to be told to colonize the earth again if necessary. The disastrous consequences of a possible asteroid impact would have all but disappeared and our sun is still young enough to enjoy it for thousands of years to come. In fact, this is the only reason why this article is included in this series!
 
 So basically this is a plan to save humanity from any destruction. If we want to prepare for the bad news that an asteroid is on its way to Earth to hit it in full, then there may be the following possibilities:
 - Send a <u>missile</u> with a few warheads and shoot the asteroid to shreds. This seems to be the most viable solution at the moment. If we get enough time for the impact, i'm sure it's worth a try.
