@@ -21,7 +21,7 @@ tags:
 - Titan
 ---
 
-We look to the near future and bring Dragonfly to the attention.
+<span style="color: orange;">We look to the near future and bring Dragonfly to the attention.</span>
 
 # Dragonfly, it's something completely different.
 

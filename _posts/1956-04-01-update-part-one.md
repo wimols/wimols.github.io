@@ -20,7 +20,7 @@ tags:
 - Titan
 ---
 
-We are now a year further. A lot has already happened there on Mars. An update is required, we will write at the end of December 2021.
+<span style="color: orange;">We are now a year further. A lot has already happened there on Mars. An update is required, we will write at the end of December 2021.</span>
 
 # The robot Perseverance.
 

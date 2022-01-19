@@ -17,7 +17,7 @@ tags:
 - Origin of life
 ---
 
-One tipping point follows another. It is a house of cards, one failure causes the entire system to collapse. We go over the so-called geological times determined by the International Commission on Stratigraphy (ICS).
+<span style="color: red;">One tipping point follows another. It is a house of cards, one failure causes the entire system to collapse. We go over the so-called geological times determined by the International Commission on Stratigraphy (ICS).</span>
 
 # Precambrian > 4600-542 million years ago.
 The newly formed earth must first <span style="color: red;">cool down</span> with water vapor condensing into the oceans, this process takes about 1000 million years.

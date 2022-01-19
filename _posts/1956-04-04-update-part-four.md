@@ -20,7 +20,7 @@ tags:
 - Titan
 ---
 
-Enceladus is one of the 82 moons of Saturn. Here, too, geysers have been observed and science is eager to investigate them further.
+<span style="color: orange;">Enceladus is one of the 82 moons of Saturn. Here, too, geysers have been observed and science is eager to investigate them further.</span>
 
 # Here is Enceladus.
 

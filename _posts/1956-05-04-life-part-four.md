@@ -17,7 +17,7 @@ tags:
 - Origin of life
 ---
 
-The key question: "Are we alone in the universe?" still deserves an answer in my lifetime. I feel that a ballast would fall off my shoulders. To ease the pain, here is an overview.
+<span style="color: red;">The key question: "Are we alone in the universe?" still deserves an answer in my lifetime. I feel that a ballast would fall off my shoulders. To ease the pain, here is an overview.</span>
 
 # Exoplanets.
 

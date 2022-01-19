@@ -17,7 +17,7 @@ tags:
 - Origin of life
 ---
 
-The most pessimistic probability calculation tells us that there are numerous candidates. Two criteria are used: Can we go there and is it habitable? Especially the first criterion is insoluble. So there may be a planet B, but for us it is not going to be a viable alternative.
+<span style="color: red;">The most pessimistic probability calculation tells us that there are numerous candidates. Two criteria are used: Can we go there and is it habitable? Especially the first criterion is insoluble. So there may be a planet B, but for us it is not going to be a viable alternative.</span>
 
 # Something about an Earth 2.0.
 

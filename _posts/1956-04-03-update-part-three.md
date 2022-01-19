@@ -20,7 +20,7 @@ tags:
 - Titan
 ---
 
-Europa is the smallest of Jupiter's Galilean moons. These are the four large moons of this gas giant. This moon also deserves our attention. A planet or a moon is just an earthly concept. Life could be possible on both of them.
+<span style="color: orange;">Europa is the smallest of Jupiter's Galilean moons. These are the four large moons of this gas giant. This moon also deserves our attention. A planet or a moon is just an earthly concept. Life could be possible on both of them.</span>
 
 # Can life arise on a planet's moon?
 

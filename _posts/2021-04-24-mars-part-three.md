@@ -15,7 +15,7 @@ tags:
 - Robot
 ---
 
-We must not lose sight of reality, it is an extremely difficult task.
+<span style="color: orange;">We must not lose sight of reality, it is an extremely difficult task.</span>
 
 # Some hard facts.
 

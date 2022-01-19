@@ -17,7 +17,7 @@ tags:
 - Origin of life
 ---
 
-Life on earth originated 3.5 billion years ago. It will take almost 3 billion years for those single-celled organisms with a primitive cell structure to evolve into single-celled organisms with a real nucleus. In the last 500 million years, multicellular organisms have formed and real life (as we know it) begins to develop.
+<span style="color: red;">Life on earth originated 3.5 billion years ago. It will take almost 3 billion years for those single-celled organisms with a primitive cell structure to evolve into single-celled organisms with a real nucleus. In the last 500 million years, multicellular organisms have formed and real life (as we know it) begins to develop.</span>
 
 # An overview captured in a kind of timepiece.
 

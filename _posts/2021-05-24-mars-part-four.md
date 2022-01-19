@@ -15,7 +15,7 @@ tags:
 - Robot
 ---
 
-Mars is smaller and further from the sun, what can we imagine and what can the red planet mean for humanity?
+<span style="color: orange;">Mars is smaller and further from the sun, what can we imagine and what can the red planet mean for humanity?</span>
 
 # Properties of the planet. 
 

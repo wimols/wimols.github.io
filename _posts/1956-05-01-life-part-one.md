@@ -17,7 +17,7 @@ tags:
 - Origin of life
 ---
 
-There's a lot to say about it. Enjoy this bundling, for better or for worse.
+<span style="color: red;">There's a lot to say about it. Enjoy this bundling, for better or for worse.</span>
 
 # Maybe, but don't overdo it.
 It is in the <span style="color: red;">habitable zone</span> of our sun and that is certainly crucial. This zone or Goldilock zone is the area within a planetary system where life is possible. In that zone there are usually rocky planets, which is nice. A further requirement for the emergence of life is liquid water. The planet will therefore have to stand at a distance from the star where the water does not freeze and does not evaporate:

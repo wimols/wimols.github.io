@@ -17,7 +17,7 @@ tags:
 - Origin of life
 ---
 
-Life is an active process. From the very beginning, energy was needed to make molecules and a little later to allow cells to multiply. Life has been creative with the problem of energy supply.
+<span style="color: red;">Life is an active process. From the very beginning, energy was needed to make molecules and a little later to allow cells to multiply. Life has been creative with the problem of energy supply.</span>
 
 # Important processes.
 

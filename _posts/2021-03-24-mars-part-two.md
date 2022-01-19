@@ -15,9 +15,9 @@ tags:
 - Robot
 ---
 
-Everyone is eagerly awaiting when Perseverance will come up with proofs of past life on Mars. Allow me to anticipate it for a moment. 
+<span style="color: orange;">Everyone is eagerly awaiting when Perseverance will come up with proofs of past life on Mars. Allow me to anticipate it for a moment.</span>
 
-In a first part I will explain how one got to the evidence of ancient life on Mars. Then I'll go into what evidence exactly that is. And then I tell you that it will stick to that evidence, in other words one will never, for example, find a skeleton of a mammoth on Mars.
+<span style="color: orange;">In a first part I will explain how one got to the evidence of ancient life on Mars. Then I'll go into what evidence exactly that is. And then I tell you that it will stick to that evidence, in other words one will never, for example, find a skeleton of a mammoth on Mars.</span>
 
 # How did we get that evidence?
 

@@ -17,7 +17,7 @@ tags:
 - Origin of life
 ---
 
-The late Stephen Hawking (1942°-2018+) came to the conclusion that time travel is possible, but for the time being only in theory. And yet it doesn't let anyone go.
+<span style="color: red;">The late Stephen Hawking (1942°-2018+) came to the conclusion that time travel is possible, but for the time being only in theory. And yet it doesn't let anyone go.</span>
 
 # First possibility: Stay in a static orbit around a black hole.
 

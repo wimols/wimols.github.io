@@ -15,7 +15,7 @@ tags:
 - Robot
 ---
 
-Mars will be in the spotlight in February 2021. When this article appears, a new rover has landed on the red planet. The robot said: "Hello, world. My first look at my forever home."
+<span style="color: orange;">Mars will be in the spotlight in February 2021. When this article appears, a new rover has landed on the red planet. The robot said: "Hello, world. My first look at my forever home."</span>
 
 # February 18, 2021.
 

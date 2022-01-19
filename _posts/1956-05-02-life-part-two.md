@@ -17,7 +17,7 @@ tags:
 - Origin of life
 ---
 
-Everything depends on coincidences. We do not know any better and we must accept it. Objectively speaking, improvements are possible.
+<span style="color: red;">Everything depends on coincidences. We do not know any better and we must accept it. Objectively speaking, improvements are possible.</span>
 
 # Could our earth have been better?
 

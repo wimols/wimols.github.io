@@ -17,7 +17,7 @@ tags:
 - Origin of life
 ---
 
-In a short time there may not be a problem. We will have to step up our efforts to keep the climate under control, for example. But in the long run, it doesn't look so good.
+<span style="color: red;">In a short time there may not be a problem. We will have to step up our efforts to keep the climate under control, for example. But in the long run, it doesn't look so good.</span>
 
 # A resolute approach will secure us for several hundred years.
 

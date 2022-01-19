@@ -17,7 +17,7 @@ tags:
 - Origin of life
 ---
 
-They haven't figured it out yet. But 3.5 billion years ago, organic molecules grouped into a primitive cell, a unit that can reproduce itself. That's how it all started.
+<span style="color: red;">They haven't figured it out yet. But 3.5 billion years ago, organic molecules grouped into a primitive cell, a unit that can reproduce itself. That's how it all started.</span>
 
 # It would be a chance event.
 
