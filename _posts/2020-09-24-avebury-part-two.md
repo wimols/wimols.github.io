@@ -1,7 +1,7 @@
 ---
 title: Avebury Part 2/6 - The Stone Circle, in a nutshell.
 header:
-  image: "/images/Avebury2.jpg"
+  image: ''
   caption: Photo by Zoltan Tasi on [**Unsplash**](https://www.english-heritage.org.uk)
 published: true
 tags:
