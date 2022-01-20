@@ -2,7 +2,7 @@
 title: Avebury Part 4/6 - The Site, other details.
 header:
   image: "/images/Avebury4.jpg"
-  caption: Photo by Gobeirne on [**Wikipedia**]
+  caption: Photo by Gobeirne on [**Wikipedia**](https://www.english-heritage.org.uk)
 published: true
 tags:
 - Avebury
