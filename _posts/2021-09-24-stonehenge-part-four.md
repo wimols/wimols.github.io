@@ -28,7 +28,15 @@ Stonehenge has to do with the <span style="color: green;">solstice</span>:
 * At the Altar Stone you can see the sun rising at the beginning of summer on 21 June exactly above the Heel Stone. At that moment one could capture the <u>longest day of the year</u>. This is an important moment for the farmers.
 * Six months later and rotated 180° one can see standing at the Altar Stone at the beginning of winter on 21 December the sun setting within the southwest gate. At that moment one could capture the <u>shortest day of the year</u>. Possibly that is the time to commemorate the dead. 
 
+<div align="center"><img src="/images/Zonnewende.jpg" alt="" width="" height=""></div>
+
+<p style="text-align: center; font-size: 12pt;"><span style="color: green;"><i>The recurring summer solstice. Photo from Wikipedia.</i></span></p>
+
 Once every 9 and 1/3 years you can also see the <span style="color: green;">midwinter full moon rise</span> exactly above the Heel Stone. 
+
+<div align="center"><img src="/images/Midwinter.jpg" alt="" width="" height=""></div>
+
+<p style="text-align: center; font-size: 12pt;"><span style="color: green;"><i>The midwinter full moonrise. Photo from Wikipedia.</i></span></p>
 
 Stonehenge was used to determine the sunrise, but could also be used to predict solar and lunar eclipses. So it was a <span style="color: green;">sacred place</span> where the sun and moon were probably worshipped. All this is quite plausible:
 * Men worshipped the sun because it was undoubtedly the <u>force</u> behind the growth process in spring and summer. Nomads became farmers who settled down, so wealth was accumulated and classes emerged from which spiritual leaders rose up and then built Stonehenge.

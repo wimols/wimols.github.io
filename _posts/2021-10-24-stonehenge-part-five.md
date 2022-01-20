@@ -27,6 +27,10 @@ tags:
 # Approx. 12 000 B.C. Paleolithic or Old Stone Age.
 The last <span style="color: green;">ice age</span> ends. In England dense forests grow. On the plain of Salisbury with its vast grasslands the vegetation is less dense. This attracts animals: wild cattle, pigs and deer. They find the rare water in this higher, dry area near the river Avon. The grasslands and the river are also attractive to people. 
 
+<div align="center"><img src="/images/Pijlpunten.jpg" alt="" width="" height=""></div>
+
+<p style="text-align: center; font-size: 12pt;"><span style="color: green;"><i>The first tools of primitive man. Photo from Wikipedia.</i></span></p>
+
 # Approx. 8000-4000 B.C. Mesolithic or Middle Stone Age. 
 Hunter-gatherers from all over southern England meet regularly at the <span style="color: green;">Avon</span>. This creates a semi-permanent camp site. Near the later Stonehenge, hunter-gatherers erect wooden poles, an exceptional activity for that time. The poles seem to mark a special place. It seems that people meet there and that they hunt, party, exchange, make love. Apparently, the surroundings of the later Stonehenge are known as a meeting place from an early age. The place is centrally located in a network of migratory routes through southern England. Archaeologists found flint tools and bone remains of aurochs, deer and wild pigs. The excavation results show that 4,000 years of unseen gatherings and grand celebrations have taken place here. The itinerant hunter-gatherers have an arsenal of flint tools. There is a suitable instrument for every task. Characteristic for this time are microlites, pieces of flint stone of small size:
 * You can use it to make <u>arrows or harpoons</u>. 

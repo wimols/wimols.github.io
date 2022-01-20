@@ -30,6 +30,10 @@ Over the sea is three to four times longer, the most likely ramshackle boats wer
 
 Some of the Bluestones in Stonehenge come from the quarry at Rhos-y-Felin in <span style="color: green;">Wales</span>. Their chemical composition betrays their origin. They are loosened using wooden wedges, sticks and ropes. The first movement is done with ropes and levers. Afterwards they are prepared for transport on a wooden sledge.
 
+<div align="center"><img src="/images/Bluestones.jpg" alt="" width="" height=""></div>
+
+<p style="text-align: center; font-size: 12pt;"><span style="color: green;"><i>This can be the natural habitat of the Bluestones. Photo from Wikipedia.</i></span></p>
+
 The <span style="color: green;">80 stones</span> are on average 2 m long and weigh about 2 to 4 tonnes. So they are a lot lighter than the enormous Sarsens, but on the other hand they have been transported over a much longer distance. 
 
 # Construction waste from Bluestones. 

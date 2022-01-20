@@ -26,6 +26,10 @@ tags:
 # We focus for a moment on a Barrow where a woman of stature was buried. 
 The grave was dated c. 1900 B.C. and the find was made at the end of the 19th century. The grave is situated 1.5 km south of Stonehenge in Normanton Down (Wiltshire) on the other side of the footpath that passes by <span style="color: green;">Coneyhenge</span>. At the top of a low ridge (overlooking Stonehenge) are 1 long Barrow and about 40 round Barrows from the Bronze Age.
 
+<div align="center"><img src="/images/Normanton.jpg" alt="" width="" height=""></div>
+
+<p style="text-align: center; font-size: 12pt;"><span style="color: green;"><i>The Normanton Down. Photo from Wikipedia.</i></span></p>
+
 In addition to burnt bones, grave goods were also found. The ornaments of the clothing point to a woman. The unusually rich grave goods suggest that some women were <span style="color: green;">equal</span> to men.
 
 This is the oldest tomb of a woman with such exceptional grave goods. The centuries before, wealth was concentrated in male graves. It seems to indicate that at least some women belonged to the <span style="color: green;">top stratum of society</span>.

@@ -23,6 +23,7 @@ tags:
 
 <span style="color: green;">The survey map shows so many archaeological sites that it is inevitable that Stonehenge is part of a whole. The fact that Stonehenge itself stands out is due to its monumental structure.
 </span>
+
 <div align="center"><img src="/images/Stony omgeving.jpg" alt="" width="" height=""></div>
 
 <p style="text-align: center; font-size: 12pt;"><span style="color: green;"><i>This overview shows the most important settlements in the vicinity of Stonehenge. It was edited by WimWatcherWilly.</i></span></p>

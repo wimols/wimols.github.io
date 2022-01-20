@@ -44,6 +44,10 @@ Men began with the Henge some <span style="color: green;">200 generations</span>
 
 The <span style="color: green;">main axis</span> points in one direction to the Midsummer Sunrise and 180° otherwise it points in the direction of the Midwinter Sunset. Stonehenge's relationship with the solar cycle appeals to the imagination. Twice a year people gather there en masse.
 
+<div align="center"><img src="/images/Hoofdas.jpg" alt="" width="" height=""></div>
+
+<p style="text-align: center; font-size: 12pt;"><span style="color: green;"><i>The main axis points in the direction of the summer solstice. Photo from Wikipedia.</i></span></p>
+
 The stones could only be arranged in this way by observing the orbit of the sun and moon and the course of the seasons. So most likely it was a <span style="color: green;">calendar</span> and a place for the <span style="color: green;">solar cult</span>:
 * One stone, on the northeast side, indicates the point on the horizon where the <u>sun rises</u> on the longest day of the summer solstice.
 * A smaller stone, on the southwest side, indicates the place where the <u>sun sets</u> on the shortest day of the winter solstice. 

@@ -59,6 +59,10 @@ Around 2000 B.C., the structure was <span style="color: green;">radically</span>
 * Five <u>colossal</u> Trilithons were placed inside the circle. Each Trilithon consists of two uprights with a stone cover plate on top, for which giant sandstone blocks of 45 tonnes were used. The five Trilithons stand in the shape of a horseshoe with the opening facing the Heel Stone. The largest rises more than 7 m above the ground, as it is at least 2 m into the ground we arrive at a total length of 9 m. 
 * Between the two <u>constellations</u> with Sarsens comes a circle of 56 Bluestones. For this purpose a part of the Bluestones that were previously located in the centre of the monument will be used.
 
+<div align="center"><img src="/images/Trilithon.jpg" alt="" width="" height=""></div>
+
+<p style="text-align: center; font-size: 12pt;"><span style="color: green;"><i>One of the stunning trilithons. Photo from Wikipedia.</i></span></p>
+
 More than ever, Stonehenge marks the <span style="color: green;">centre</span> of the earth, the sky and the universe. Connecting and anchoring the gigantic Sarsens highlights unity and connectedness.
 
 New vertical stones were placed at the entrance, but only the <span style="color: green;">Slaughter Stone</span> remained, and unfortunately it fell over. 
