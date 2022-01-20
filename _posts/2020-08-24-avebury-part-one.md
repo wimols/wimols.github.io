@@ -1,7 +1,7 @@
 ---
 title: Avebury Part 1/6 - How did it come to this?
 header:
-  image: images/Avebury1.jpg
+  image: "images/Avebury1.jpg"
   caption: Photo by Frans Van Heerden on [**Pexels**]
 published: true
 tags:
