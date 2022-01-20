@@ -1,7 +1,7 @@
 ---
 title: Avebury Part 6/6 - White horses and crop circles.
 header:
-  image: ''
+  image: "/images/Avebury6.jpg"
   caption: Reconstruction preserved by Alder Grove on [**Pinterest**](https://www.english-heritage.org.uk)
 published: true
 tags:
