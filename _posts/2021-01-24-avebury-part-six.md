@@ -29,9 +29,7 @@ tags:
 
 # Where did that white color come from?
 
-Without a doubt, the white color has to do with the huge chalk layer that is present in the subsurface. Chalk is deposit rock that consists mainly of lime. Depending on the chemical composition, that lime can be white and then one speaks of chalk, the lime can also be yellowish and then one speaks of sandstone. The chalk we are dealing with is part of <span style="color: blue;">the Chalk Group</span>. This is a deposit layer that is present in the Isle of Wight, South Downs, Dover and Normandy. So that chalk back runs in an arc through southern England to France. At the level of the Channel, that back was breached because the seawater was easily given play on the soluble lime. The chalk layer is close to the surface. It stretches over about 300 km in length and 80 km in width. She's 60 m thick on average.
-
-We have already come across that white color at:
+Without a doubt, the white color has to do with the huge chalk layer that is present in the subsurface. Chalk is deposit rock that consists mainly of lime. Depending on the chemical composition, that lime can be white and then one speaks of chalk, the lime can also be yellowish and then one speaks of sandstone. The chalk we are dealing with is part of <span style="color: blue;">the Chalk Group</span>. This is a deposit layer that is present in the Isle of Wight, South Downs, Dover and Normandy. So that chalk back runs in an arc through southern England to France. At the level of the Channel, that back was breached because the seawater was easily given play on the soluble lime. The chalk layer is close to the surface. It stretches over about 300 km in length and 80 km in width. She's 60 m thick on average. We have already come across that white color at:
 * The ditch and earthen shore in the Henges of <u>Avebury and Stonehenge</u>. They must have come across snow white in their first existence for centuries.
 * <u>Silbury Hill</u>. This artificial hill was a white beacon for the entire area.
 * <u>Isle of Wight</u>. The Needles are a theme park here.
@@ -45,9 +43,7 @@ We have already come across that white color at:
 
 # White Horses of Wiltshire.
 
-Eight carved horse figures can be seen in the lime hills of Wiltshire. In fact, there are thirteen, but five have grown. The English have a thing for horses, they will hardly ever eat these noble animals, for example.
-
-Chiseling white horses into the limestone is actually a kind of national sport of all time:
+<span style="color: blue;">Eight</span> carved horse figures can be seen in the lime hills of Wiltshire. In fact, there are thirteen, but five have grown. The English have a thing for horses, they will hardly ever eat these noble animals, for example. Chiseling white horses into the limestone is actually a kind of national sport of all time:
 * <u>Farmers</u> chop a horse out of the limestone on a hill on their own estate to personalize their terrain. 
 * <u>Student clubs and associations</u> imitated them. The most recent horse was made in 1999 to strengthen the millennium. 
 
@@ -61,33 +57,31 @@ Two horse figures are located near Avebury:
 
 # Uffington White Horse.
 
-We are in Oxfordshire, a county other than Wiltschire and about 30 km from Avebury. Here too the landscape is hilly, there is the White Horse Hills which are about 850 m high. The lime area is bisected by the Thames and some of its tributaries. 
+We are in <span style="color: blue;">Oxfordshire</span>, a county other than Wiltschire and about 30 km from Avebury. Here too the landscape is hilly, there is the White Horse Hills which are about 850 m high. The lime area is bisected by the Thames and some of its tributaries. 
 
 This is the <span style="color: blue;">oldest</span> and perhaps therefore the most <span style="color: blue;">famous</span> White Horse, Uffington is located in the White Horse Hills. It dates back to the Iron Age between 100 bc and 100 AD. The White Horse is about 123 m long and is about 30 m high in the landscape. The horse is presented in a stylized form. It's about the only horse looking to the right. The horse can be seen from the A420, the B4508 and the B4507. Best of all, however, it can be seen from the air. 
 
-There are several genesiss because 2000 years is a long time. None is convincing:
+There are several <span style="color: blue;">genesiss</span> because 2000 years is a long time. None is convincing:
 * According to an ancient legend, <u>Saint George</u> would have killed his dragon here. This would have happened on Dragon Hill, a hill nearby with a remarkably flat top. For some, it is not a horse but a dragon.
 * For a long time it was thought that the White Horse was built by the <u>King Alfred</u> in 871 to commemorate his victory over the Danes. In this scenario, there is a time problem.
 * Alternatively, it was thought that the <u>Anglo-Saxon migrants</u> had taken the initiative sometime in the 5th century, but here too a shoe is pinched. 
 
-It has to be maintained. From this horse it is therefore certain that this has happened continuously over the course of 2000 years. The tradition dictates that the local landlord must organize and finance a refurbishment once every 7 years, in which the entire local population participates. With iron brushes, the underlying layer of kalens is made more visible again. In recent years it has become a folkloric event for the benefit of the local tourist industry and the event is accompanied by a cheese market and the like.
+It has to be <span style="color: blue;">maintained</span>. From this horse it is therefore certain that this has happened continuously over the course of 2000 years. The tradition dictates that the local landlord must organize and finance a refurbishment once every 7 years, in which the entire local population participates. With iron brushes, the underlying layer of kalens is made more visible again. In recent years it has become a folkloric event for the benefit of the local tourist industry and the event is accompanied by a cheese market and the like.
 
-During the second world war it was deliberately hidden, so as not to serve as a navigation point for bombers.
+During the second world war it was deliberately hidden, so as not to serve as a <span style="color: blue;">navigation</span> point for bombers.
 
 # Function of White Horses in general.
 
-Logically one should look no further than: sign, attraction, landmark, stunt, life's work, celebration or art.
-
-Somewhere I heard the daring feature that is already mentioned at Silbury Hill in Avebury. Deriving lightning could be a motive. The ionized soil would be more fertile for a while afterwards.
+Logically one should look no further than: sign, attraction, landmark, stunt, life's work, celebration or art. Somewhere I heard the daring feature that is already mentioned at Silbury Hill in Avebury. <span style="color: blue;">Deriving lightning</span> could be a motive. The ionized soil would be more fertile for a while afterwards.
 
 # Almost inevitably we end up at crop circles.
-The joke crop circles are originally also from this region. The makers of crop circles would take their inspiration from the pattern of stone circles in Avebury. The creators are well known and come out for it. Crop circles have been around since time immemorial. 
+The <span style="color: blue;">joke</span> crop circles are originally also from this region. The makers of crop circles would take their inspiration from the pattern of stone circles in Avebury. The creators are well known and come out for it. Crop circles have been around since time immemorial. 
 
 <div align="center"><img src="/images/Duivel.jpg" alt="" width="" height=""></div>
 
 <p style="text-align: center; font-size: 12pt;"><span style="color: blue;"><i>The mowing devil from Hartfordshire in 1678 on https://historydaily.org/</i></span></p>
 
-An ancient image from 1678 shows a devil making circular figures in the grain with a scythe. The mysterious forms in the grain were therefore long attributed to diabolical forces. And so some features continue to cause confusion:
+An ancient image from 1678 shows a <span style="color: blue;">devil</span> making circular figures in the grain with a scythe. The mysterious forms in the grain were therefore long attributed to diabolical forces. And so some features continue to cause confusion:
 * Over time, the crop circles have become <u>increasingly complicated</u> in shape and symmetry. Figures that can only be drawn through a computer appear in corn fields, often in a very short time. 
 * Some crop circles have a diameter of 2 kilometers. One can only look a hundred meters ahead on the ground. The whole was therefore only recognizable from the <u>air</u>.
 * Sometimes <u>only</u> the halls are gnagged and all in the same direction.

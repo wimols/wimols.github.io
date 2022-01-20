@@ -34,28 +34,28 @@ Two kilometres south of the Avebury Stone Circle is Silbury Hill Round Barrow. T
 * The <u>perimeter</u> is 0.5 km. 
 * In its <u>2 hectare ground area</u> fit 3 full football pitches. 
 
-For some, this hill is the answer to the pyramids of Ancient Egypt. Age and size can be compared to each other, at least for the average smaller pyramids of Gizeh. Also in the construction there are intersections. But the hill is still shrouded in a greater haze of mystery than the pyramids. Extensive research has raised more questions than answers.
+For some, this hill is the <span style="color: blue;">answer</span> to the pyramids of Ancient Egypt. Age and size can be compared to each other, at least for the average smaller pyramids of Gizeh. Also in the construction there are intersections. But the hill is still shrouded in a greater haze of mystery than the pyramids. Extensive research has raised more questions than answers.
 
-It used to be possible to climb the hill via a narrow path, but for understandable reasons this is forbidden today. Now there is a small car park at the bottom where you can enjoy the view for free. It is a real eye-catcher and you will find a lot of information on the signs.
+It used to be possible to <span style="color: blue;">climb</span> the hill via a narrow path, but for understandable reasons this is forbidden today. Now there is a small car park at the bottom where you can enjoy the view for free. It is a real eye-catcher and you will find a lot of information on the signs.
 
-Today the hill is overgrown and merges into the landscape. We must not forget, however, that it used to be a shiny white chalk hill, drawing all the attention to itself.
+Today the hill is overgrown and <span style="color: blue;">merges</span> into the landscape. We must not forget, however, that it used to be a shiny white chalk hill, drawing all the attention to itself.
 
-Esoterics point out that Silbury Hill is connected to other large archaeological sites such as Stonehenge via so-called Ley lines (or beneficial energy lines). 
+Esoterics point out that Silbury Hill is connected to other large archaeological sites such as Stonehenge via so-called <span style="color: blue;">Ley lines</span> (or beneficial energy lines). 
 
 # Construction.
 The hill is dated by the radio-carbon method around 2700 BC. We are then fully in <span style="color: blue;">the Neolithic or New Stone Age</span>. 
 
-The hill owes its stability to the fact that the builders applied a kind of honeycomb structure of limestone internally, no less than 500 000 tonnes were needed. Two large ditches were dug around the hill which probably provided the building material.
+The hill owes its stability to the fact that the builders applied a kind of <span style="color: blue;">honeycomb</span> structure of limestone internally, no less than 500 000 tonnes were needed. Two large ditches were dug around the hill which probably provided the building material.
 
-As far as the time span is concerned, there are two possibilities:
+As far as the time span is concerned, there are <span style="color: blue;">two</span> possibilities:
 * Five hundred people could get the job done in <u>fifteen years</u>. A relatively short period of time in relation to the result. But it must be clear that if there is a period in which only half the work force is available, the construction will be delayed by half. The importance of the project can best be expressed in man-hours. An estimate of twenty million man-hours underlines the importance of the project.
 * Provided that the hill is systematically raised, the work could be halted for a while after each level. In this way, the final fifteen years could be spread over <u>several generations</u>. 
 
-So a large group of people were motivated to make that effort. The leaders at the time managed to group their workforce and align them with the project.
+So a large group of people were motivated to make that effort. The leaders at the time <span style="color: blue;">managed</span> to group their workforce and align them with the project.
 
-There is no doubt that man at that time had few resources at his disposal. Deer antlers were certainly used as a pickaxe to chop limestone pieces loose.
+There is no doubt that man at that time had few resources at his disposal. <span style="color: blue;">Deer antlers</span> were certainly used as a pickaxe to chop limestone pieces loose.
 
-Men assumes that the hill was built in phases and thus systematically raised. Those layers and those levels must have been more visible in the past, the current silhouette is rounded off and smooth due to erosion:
+Men assumes that the hill was built in <span style="color: blue;">phases</span> and thus systematically raised. Those layers and those levels must have been more visible in the past, the current silhouette is rounded off and smooth due to erosion:
 * The <u>surface</u> was demarcated and flattened. Thick sarsenkeien against the outer edge provided the necessary stability. Then came a thick layer of boulders and gravel. There's no indication that that surface has been tinkered with.
 * Subsequently, successive and chamfered <u>levels</u> were added until the summit was reached. Compared to the pyramids, there is an advantage: the lime chunks that serve as filling material here are easier to handle than the gigantic sandstones in Egypt.
 
@@ -84,7 +84,7 @@ In modern times, the hill has been explored <span style="color: blue;">several t
 
 <p style="text-align: center; font-size: 12pt;"><span style="color: blue;"><i>This photo can be seen on the http://isida-project.org/england_2014/silbury.htm website. Three drastic courses were unsuccessful.</i></span></p>
 
-Since 2007 the hill has been stabilised again. Through incoming cosmic radiation (muons) one tries to find out a bit more about its contents and in the process one has left the really drastic actions, which may have done more harm than good. This is based on the experience gained in the archaeological research of some pyramids in Egypt.
+Since 2007 the hill has been <span style="color: blue;">stabilised</span> again. Through incoming cosmic radiation (muons) one tries to find out a bit more about its contents and in the process one has left the really drastic actions, which may have done more harm than good. This is based on the experience gained in the archaeological research of some pyramids in Egypt.
 
 # Trivial functions.
 The official name Silbury Hill Round Barrow contains a reference to a burial mound. This is clearly a <span style="color: blue;">mistake</span>. In the search for another reason to build the hill, two possibilities have emerged recently:
