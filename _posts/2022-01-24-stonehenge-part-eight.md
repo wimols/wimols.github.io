@@ -3,7 +3,7 @@ title: Stonehenge Part 8/8 - Graves.
 header:
   image: "/images/Stony deel8.jpg"
   caption: Photo from [**English Heritage**](https://www.english-heritage.org.uk)
-published: false
+published: true
 tags:
 - Stonehenge
 - Neolithic
