@@ -3,7 +3,7 @@ title: Update Mars Part 1/4 - What is the status of the experiments on Mars?
 header:
   image: "/images/Update1.jpg"
   caption: https://www.nasa.gov/
-published: false
+published: true
 tags:
 - Mars
 - Perseverance
