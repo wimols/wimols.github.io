@@ -4,7 +4,7 @@ title: Update Mars Part 2/4 - What is the next milestone in the search for extra
 header:
   image: "/images/Update2.jpg"
   caption: https://www.nasa.gov/
-published: false
+published: true
 tags:
 - Mars
 - Perseverance
