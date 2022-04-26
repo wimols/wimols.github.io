@@ -3,7 +3,7 @@ title: Update Mars Part 3/4 - The moon Europe is also quite interesting.
 header:
   image: "/images/Update3.jpg"
   caption: https://www.nasa.gov/
-published: false
+published: true
 tags:
 - Mars
 - Perseverance
