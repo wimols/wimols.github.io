@@ -3,7 +3,7 @@ title: Life Part 7/10 - Overview of the origin of life.
 header:
   image: "/images/Leven7.jpg"
   caption: https://pixabay.com/nl/photos/
-published: false
+published: true
 tags:
 - Time travel
 - Prokaryotes
