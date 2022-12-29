@@ -3,7 +3,7 @@ title: Life Part 6/10 - The fate of our Earth.
 header:
   image: "/images/Leven6.jpg"
   caption: https://pixabay.com/nl/photos/
-published: false
+published: true
 tags:
 - Time travel
 - Prokaryotes
