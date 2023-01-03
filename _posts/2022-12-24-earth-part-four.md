@@ -1,9 +1,9 @@
 ---
-title: Life Part 4/10 - Life on earth, unique in the universe?
+title: Earth Part 4/4 - Life on earth, unique in the universe?
 header:
   image: "/images/Leven4.jpg"
   caption: https://pixabay.com/nl/illustrations/
-published: false
+published: true
 tags:
 - Time travel
 - Prokaryotes

@@ -1,9 +1,9 @@
 ---
-title: Life Part 3/10 - Will there be a planet B?
+title: Earth Part 3/4 - Will there be a planet B?
 header:
   image: "/images/Leven3.jpg"
   caption: https://pixabay.com/nl/photos/
-published: false
+published: true
 tags:
 - Time travel
 - Prokaryotes
