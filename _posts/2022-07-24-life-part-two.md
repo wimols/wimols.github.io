@@ -3,7 +3,7 @@ title: Life Part 2/10 - Could our solar system have been better?
 header:
   image: "/images/Leven2.jpg"
   caption: https://pixabay.com/nl/photos/
-published: true
+published: false
 tags:
 - Time travel
 - Prokaryotes
