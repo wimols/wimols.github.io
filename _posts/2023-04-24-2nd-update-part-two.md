@@ -3,7 +3,7 @@ title: Second update 2/3 - What is the situation with the helicopter on Mars?
 header:
   image: "/images/Second update2.jpg"
   caption: https://pixabay.com/nl/illustrations/
-published: false
+published: true
 tags:
 - Time travel
 - Prokaryotes
