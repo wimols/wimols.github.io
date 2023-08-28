@@ -3,7 +3,7 @@ title: Reflection Part 1/2 - The fable of time travel.
 header:
   image: "/images/Leven5.jpg"
   caption: https://pixabay.com/nl/photos/
-published: false
+published: true
 tags:
 - Time travel
 - Prokaryotes
