@@ -3,7 +3,7 @@ title: Life Part 3/4 - Pivotal points in the evolution of life.
 header:
   image: "/images/Leven9.jpg"
   caption: https://pixabay.com/nl/photos/
-published: false
+published: true
 tags:
 - Time travel
 - Prokaryotes
