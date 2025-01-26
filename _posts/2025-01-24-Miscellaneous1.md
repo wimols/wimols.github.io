@@ -3,7 +3,7 @@ title: Miscellaneous1 - The Origin of Life
 header:
   image: "/images/Miscellaneous1.jpg"
   caption: https://pixabay.com/nl/photos/
-published: false
+published: true
 tags:
 - DNA
 - Origin of life
