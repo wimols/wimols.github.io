@@ -3,7 +3,7 @@ title: Miscellaneous2 - Our DNA
 header:
   image: "/images/Miscellaneous2.jpg"
   caption: https://pixabay.com/nl/photos/
-published: false
+published: true
 tags:
 - DNA
 - Origin of life
